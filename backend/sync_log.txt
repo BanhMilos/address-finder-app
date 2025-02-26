@@ -1,0 +1,5 @@
+[2025-02-26T15:12:21.313Z]  ERROR: ENOENT: no such file or directory, open 'C:\Users\44886\OneDrive\Desktop\MDCTest\address-finder-app\backend\data\Addresses.xlsx'
+[2025-02-26T15:13:43.520Z]  Sync started for file: C:\Users\44886\OneDrive\Desktop\MDCTest\address-finder-app\data\Addresses.xlsx
+[2025-02-26T15:13:43.527Z]  Syncing sheet: Province Code to Firestore: Province_Code
+[2025-02-26T15:13:43.528Z]  Using "ID Tỉnh thành" as document ID for collection "Province_Code"
+[2025-02-26T15:13:56.403Z]  ERROR: 8 RESOURCE_EXHAUSTED: Quota exceeded.
