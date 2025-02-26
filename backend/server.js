@@ -3,7 +3,6 @@ const admin = require("firebase-admin");
 const cors = require("cors");
 require("dotenv").config();
 
-// Initialize Firebase Admin with Service Account Key
 const serviceAccount = require(process.env.FIREBASE_KEY_PATH);
 
 admin.initializeApp({

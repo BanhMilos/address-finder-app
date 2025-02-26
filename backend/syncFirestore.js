@@ -14,22 +14,19 @@ admin.initializeApp({
 
 const db = admin.firestore();
 
-// Log file path
+// Log
 const LOG_FILE = path.join(__dirname, 'sync_log.txt');
 
-// Function to write logs to a file
 const logToFile = (message) => {
   const timestamp = new Date().toISOString();
   const logMessage = `[${timestamp}] ${message}\n`;
   
-  // Append log message to file
   fs.appendFileSync(LOG_FILE, logMessage, 'utf8');
   
-  // Also log to console
   console.log(message);
 };
 
-// Read all sheets in the Excel file
+// Read all sheets in Excel file
 const readExcelFile = (filePath) => {
   const workbook = XLSX.readFile(filePath);
   const sheetsData = {};
@@ -43,7 +40,7 @@ const readExcelFile = (filePath) => {
   return sheetsData;
 };
 
-// Sync Firestore with all sheets in Excel
+// Sync Firestore
 const syncExcelToFirestore = async () => {
   const filePath = path.join(__dirname, "..", "data", "Addresses.xlsx");
   const sheetsData = readExcelFile(filePath);
@@ -79,7 +76,7 @@ const syncExcelToFirestore = async () => {
     const firestoreIds = new Set();
 
 
-    // Update existing & remove missing documents
+    // Update existing and remove missing documents
     snapshot.forEach((doc) => {
       const docId = doc.id;
       firestoreIds.add(docId);
@@ -114,7 +111,7 @@ const syncExcelToFirestore = async () => {
   logToFile(` Sync completed successfully\n`);
 };
 
-// Run the dam function
+// Run the goddam function
 syncExcelToFirestore().catch((error) => {
   logToFile(` ERROR: ${error.message}`);
   console.error(error);

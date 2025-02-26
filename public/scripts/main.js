@@ -147,7 +147,6 @@ document.addEventListener("DOMContentLoaded", function () {
     };
 
 
-    // Event Listeners
     provinceSelect.addEventListener("change", function () {
         const provinceId = provinceSelect.value;
         if (provinceId) {
