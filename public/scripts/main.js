@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const searchInput = document.getElementById("search");
     const resultMessage = document.getElementById("result-message");
 
-    const API_BASE_URL = "http://localhost:3000"; // Change to your backend URL
+    const API_BASE_URL = "http://localhost:3000";
 
     let allLocations = [];
 
@@ -80,12 +80,12 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     };
 
-    // Search function (case-insensitive, supports abbreviations & partial matches)
+    // Search function 
     const searchLocations = (query) => {
         if (!query) return;
 
         query = query.toLowerCase();
-        const words = query.split(/\s+/); // Split into words for abbreviation search
+        const words = query.split(/\s+/);
 
         const results = allLocations.filter(loc => {
             const fullName = `${loc.ward}, ${loc.district}, ${loc.province}`.toLowerCase();
@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
             // Exact match
             if (fullName.includes(query)) return true;
 
-            // Abbreviation match (e.g., "dvh" → "Dich Vong Hau")
+            // Abbreviation match 
             const abbreviation = loc.ward
                 .split(" ")
                 .map(word => word[0])
@@ -102,14 +102,39 @@ document.addEventListener("DOMContentLoaded", function () {
 
             if (abbreviation === query) return true;
 
-            // Partial match on any word (e.g., "am" → "Ha Nam", "Nam Dinh")
+            // Partial match
             return words.some(word => fullName.includes(word));
         });
 
         displaySearchResults(results);
     };
 
-    // Display search results
+    // Display selected address
+    const displayAddress = () => {
+        const provinceId = provinceSelect.value;
+        const districtId = districtSelect.value;
+        const wardId = wardSelect.value;
+        const province = provinceSelect.options[provinceSelect.selectedIndex]?.textContent || "";
+        const district = districtSelect.options[districtSelect.selectedIndex]?.textContent || "";
+        const ward = wardSelect.options[wardSelect.selectedIndex]?.textContent || "";
+        const specificAddress = addressInput.value.trim();
+
+        if (!provinceId || !districtId || !wardId) {
+            resultMessage.textContent = "Please select Province, District, and Ward.";
+            return;
+        }
+
+        // Format: Province ID, District ID, Ward ID, Specific address (if provided) Ward name
+        let formattedAddress = `${provinceId}, ${districtId}, ${wardId}`;
+        if (specificAddress) {
+            formattedAddress += `, ${specificAddress}`;
+        }
+        formattedAddress += ` (${ward})`;
+
+        resultMessage.textContent = formattedAddress;
+    };
+
+    // Search results
     const displaySearchResults = (results) => {
         if (results.length === 0) {
             resultMessage.textContent = "No results found.";
@@ -120,6 +145,7 @@ document.addEventListener("DOMContentLoaded", function () {
             .map(loc => `${loc.ward}, ${loc.district}, ${loc.province}`)
             .join("<br>");
     };
+
 
     // Event Listeners
     provinceSelect.addEventListener("change", function () {
@@ -145,7 +171,6 @@ document.addEventListener("DOMContentLoaded", function () {
         searchLocations(searchInput.value);
     });
 
-    // Load initial data
     loadAllLocations();
     loadProvinces();
 });

@@ -13,7 +13,7 @@ admin.initializeApp({
 const db = admin.firestore();
 const app = express();
 app.use(cors());
-app.use(express.json()); // Middleware to parse JSON requests
+app.use(express.json()); 
 
 // Get all provinces
 app.get("/provinces", async (req, res) => {
