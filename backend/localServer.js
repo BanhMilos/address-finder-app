@@ -38,14 +38,14 @@ app.get("/provinces", (req, res) => {
 // Get districts by province ID
 app.get("/districts/:provinceId", (req, res) => {
   const { provinceId } = req.params;
-  const districts = districtData.filter((d) => d["ID tỉnh thành"] === provinceId);
+  const districts = districtData.filter((district) => district["ID tỉnh thành"] === Number(provinceId));
   res.json(districts);
 });
 
 // Get wards by district ID
 app.get("/wards/:districtId", (req, res) => {
   const { districtId } = req.params;
-  const wards = wardData.filter((w) => w["ID Quận huyện"] === districtId);
+  const wards = wardData.filter((ward) => ward["ID Quận huyện"] === Number(districtId));
   res.json(wards);
 });
 

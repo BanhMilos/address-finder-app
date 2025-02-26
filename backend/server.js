@@ -32,7 +32,7 @@ app.get("/provinces", async (req, res) => {
 app.get("/districts/:provinceId", async (req, res) => {
   try {
     const { provinceId } = req.params;
-    const snapshot = await db.collection("District_Code").where("ID tỉnh thành", "==", provinceId).get();
+    const snapshot = await db.collection("District_Code").where("ID tỉnh thành", "==", Number(provinceId)).get();
     const districts = snapshot.docs.map((doc) => ({
       id: doc.id,
       ...doc.data(),
@@ -47,7 +47,7 @@ app.get("/districts/:provinceId", async (req, res) => {
 app.get("/wards/:districtId", async (req, res) => {
   try {
     const { districtId } = req.params;
-    const snapshot = await db.collection("Ward_code").where("ID Quận huyện", "==", districtId).get();
+    const snapshot = await db.collection("Ward_code").where("ID Quận huyện", "==", Number(districtId)).get();
     const wards = snapshot.docs.map((doc) => ({
       id: doc.id,
       ...doc.data(),

@@ -32,8 +32,8 @@ document.addEventListener("DOMContentLoaded", function () {
             provinceSelect.innerHTML = '<option value="">--Select Province--</option>';
             provinces.forEach(province => {
                 const option = document.createElement("option");
-                option.value = province.id;
-                option.textContent = province.name;
+                option.value = province["ID Tỉnh thành"];
+                option.textContent = province["Tên tỉnh thành"];
                 provinceSelect.appendChild(option);
             });
         } catch (error) {
@@ -52,8 +52,8 @@ document.addEventListener("DOMContentLoaded", function () {
             wardSelect.innerHTML = '<option value="">--Select Ward--</option>';
             districts.forEach(district => {
                 const option = document.createElement("option");
-                option.value = district.id;
-                option.textContent = district.name;
+                option.value = district["ID quận huyện"];
+                option.textContent = district["Tên Quận huyện"];
                 districtSelect.appendChild(option);
             });
         } catch (error) {
@@ -71,8 +71,8 @@ document.addEventListener("DOMContentLoaded", function () {
             wardSelect.innerHTML = '<option value="">--Select Ward--</option>';
             wards.forEach(ward => {
                 const option = document.createElement("option");
-                option.value = ward.id;
-                option.textContent = ward.name;
+                option.value = ward["ID Phường xã"];
+                option.textContent = ward["Tên Phường xã"];
                 wardSelect.appendChild(option);
             });
         } catch (error) {
@@ -129,7 +129,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (specificAddress) {
             formattedAddress += `, ${specificAddress}`;
         }
-        formattedAddress += ` (${ward})`;
+        formattedAddress += ` ${ward}`;
 
         resultMessage.textContent = formattedAddress;
     };
@@ -165,6 +165,10 @@ document.addEventListener("DOMContentLoaded", function () {
             wardSelect.innerHTML = '<option value="">--Select Ward--</option>';
         }
     });
+
+    wardSelect.addEventListener("change", displayAddress);
+
+    addressInput.addEventListener("input", displayAddress);
 
     searchInput.addEventListener("input", function () {
         searchLocations(searchInput.value);
