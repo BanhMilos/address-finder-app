@@ -41,6 +41,7 @@ address-finder-app
    cp .env.example .env
    ```
 Open .env and configure FIREBASE_KEY_PATH with the correct Firebase service account JSON path
+
 4. **Run the server**:
    ```
    node backend/server.js
