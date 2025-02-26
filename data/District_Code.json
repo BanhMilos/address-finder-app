@@ -1,0 +1,4937 @@
+[
+  {
+    "ID quận huyện": 1,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Chánh",
+    "Tên đầy đủ": "Huyện Bình Chánh, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 2,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Bình Tân",
+    "Tên đầy đủ": "Quận Bình Tân, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 3,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Bình Thạnh",
+    "Tên đầy đủ": "Quận Bình Thạnh, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 4,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cần Giờ",
+    "Tên đầy đủ": "Huyện Cần Giờ, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 5,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Củ Chi",
+    "Tên đầy đủ": "Huyện Củ Chi, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 6,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Gò Vấp",
+    "Tên đầy đủ": "Quận Gò Vấp, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 7,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hóc Môn",
+    "Tên đầy đủ": "Huyện Hóc Môn, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 8,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nhà Bè",
+    "Tên đầy đủ": "Huyện Nhà Bè, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 9,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Phú Nhuận",
+    "Tên đầy đủ": "Quận Phú Nhuận, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 10,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 1",
+    "Tên đầy đủ": "Quận 1, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 11,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 10",
+    "Tên đầy đủ": "Quận 10, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 12,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 11",
+    "Tên đầy đủ": "Quận 11, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 13,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 12",
+    "Tên đầy đủ": "Quận 12, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 14,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thủ Đức",
+    "Tên đầy đủ": "Thành phố Thủ Đức, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 15,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 3",
+    "Tên đầy đủ": "Quận 3, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 16,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 4",
+    "Tên đầy đủ": "Quận 4, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 17,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 5",
+    "Tên đầy đủ": "Quận 5, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 18,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 6",
+    "Tên đầy đủ": "Quận 6, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 19,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 7",
+    "Tên đầy đủ": "Quận 7, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 20,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Quận 8",
+    "Tên đầy đủ": "Quận 8, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 22,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Tân Bình",
+    "Tên đầy đủ": "Quận Tân Bình, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 23,
+    "ID tỉnh thành": 29,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Tân Phú",
+    "Tên đầy đủ": "Quận Tân Phú, Hồ Chí Minh"
+  },
+  {
+    "ID quận huyện": 25,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Ba Đình",
+    "Tên đầy đủ": "Quận Ba Đình, Hà Nội"
+  },
+  {
+    "ID quận huyện": 26,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ba Vì",
+    "Tên đầy đủ": "Huyện Ba Vì, Hà Nội"
+  },
+  {
+    "ID quận huyện": 27,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Bắc Từ Liêm",
+    "Tên đầy đủ": "Quận Bắc Từ Liêm, Hà Nội"
+  },
+  {
+    "ID quận huyện": 28,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Cầu Giấy",
+    "Tên đầy đủ": "Quận Cầu Giấy, Hà Nội"
+  },
+  {
+    "ID quận huyện": 29,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chương Mỹ",
+    "Tên đầy đủ": "Huyện Chương Mỹ, Hà Nội"
+  },
+  {
+    "ID quận huyện": 30,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đan Phượng",
+    "Tên đầy đủ": "Huyện Đan Phượng, Hà Nội"
+  },
+  {
+    "ID quận huyện": 31,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đông Anh",
+    "Tên đầy đủ": "Huyện Đông Anh, Hà Nội"
+  },
+  {
+    "ID quận huyện": 32,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Đống Đa",
+    "Tên đầy đủ": "Quận Đống Đa, Hà Nội"
+  },
+  {
+    "ID quận huyện": 33,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gia Lâm",
+    "Tên đầy đủ": "Huyện Gia Lâm, Hà Nội"
+  },
+  {
+    "ID quận huyện": 34,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Hà Đông",
+    "Tên đầy đủ": "Quận Hà Đông, Hà Nội"
+  },
+  {
+    "ID quận huyện": 35,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Hai Bà Trưng",
+    "Tên đầy đủ": "Quận Hai Bà Trưng, Hà Nội"
+  },
+  {
+    "ID quận huyện": 36,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoài Đức",
+    "Tên đầy đủ": "Huyện Hoài Đức, Hà Nội"
+  },
+  {
+    "ID quận huyện": 37,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Hoàn Kiếm",
+    "Tên đầy đủ": "Quận Hoàn Kiếm, Hà Nội"
+  },
+  {
+    "ID quận huyện": 38,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Hoàng Mai",
+    "Tên đầy đủ": "Quận Hoàng Mai, Hà Nội"
+  },
+  {
+    "ID quận huyện": 39,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Long Biên",
+    "Tên đầy đủ": "Quận Long Biên, Hà Nội"
+  },
+  {
+    "ID quận huyện": 40,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mê Linh",
+    "Tên đầy đủ": "Huyện Mê Linh, Hà Nội"
+  },
+  {
+    "ID quận huyện": 41,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mỹ Đức",
+    "Tên đầy đủ": "Huyện Mỹ Đức, Hà Nội"
+  },
+  {
+    "ID quận huyện": 42,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Nam Từ Liêm",
+    "Tên đầy đủ": "Quận Nam Từ Liêm, Hà Nội"
+  },
+  {
+    "ID quận huyện": 43,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Xuyên",
+    "Tên đầy đủ": "Huyện Phú Xuyên, Hà Nội"
+  },
+  {
+    "ID quận huyện": 44,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phúc Thọ",
+    "Tên đầy đủ": "Huyện Phúc Thọ, Hà Nội"
+  },
+  {
+    "ID quận huyện": 45,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quốc Oai",
+    "Tên đầy đủ": "Huyện Quốc Oai, Hà Nội"
+  },
+  {
+    "ID quận huyện": 46,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sóc Sơn",
+    "Tên đầy đủ": "Huyện Sóc Sơn, Hà Nội"
+  },
+  {
+    "ID quận huyện": 47,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Sơn Tây",
+    "Tên đầy đủ": "Thị xã Sơn Tây, Hà Nội"
+  },
+  {
+    "ID quận huyện": 48,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Tây Hồ",
+    "Tên đầy đủ": "Quận Tây Hồ, Hà Nội"
+  },
+  {
+    "ID quận huyện": 49,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thạch Thất",
+    "Tên đầy đủ": "Huyện Thạch Thất, Hà Nội"
+  },
+  {
+    "ID quận huyện": 50,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Oai",
+    "Tên đầy đủ": "Huyện Thanh Oai, Hà Nội"
+  },
+  {
+    "ID quận huyện": 51,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Trì",
+    "Tên đầy đủ": "Huyện Thanh Trì, Hà Nội"
+  },
+  {
+    "ID quận huyện": 52,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Thanh Xuân",
+    "Tên đầy đủ": "Quận Thanh Xuân, Hà Nội"
+  },
+  {
+    "ID quận huyện": 53,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thường Tín",
+    "Tên đầy đủ": "Huyện Thường Tín, Hà Nội"
+  },
+  {
+    "ID quận huyện": 54,
+    "ID tỉnh thành": 22,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ứng Hòa",
+    "Tên đầy đủ": "Huyện Ứng Hòa, Hà Nội"
+  },
+  {
+    "ID quận huyện": 55,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Cẩm Lệ",
+    "Tên đầy đủ": "Quận Cẩm Lệ, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 56,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Hải Châu",
+    "Tên đầy đủ": "Quận Hải Châu, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 57,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hòa Vang",
+    "Tên đầy đủ": "Huyện Hòa Vang, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 58,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoàng Sa",
+    "Tên đầy đủ": "Huyện Hoàng Sa, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 59,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Liên Chiểu",
+    "Tên đầy đủ": "Quận Liên Chiểu, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 60,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Ngũ Hành Sơn",
+    "Tên đầy đủ": "Quận Ngũ Hành Sơn, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 61,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Sơn Trà",
+    "Tên đầy đủ": "Quận Sơn Trà, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 62,
+    "ID tỉnh thành": 15,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Thanh Khê",
+    "Tên đầy đủ": "Quận Thanh Khê, Đà Nẵng"
+  },
+  {
+    "ID quận huyện": 63,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bàu Bàng",
+    "Tên đầy đủ": "Huyện Bàu Bàng, Bình Dương"
+  },
+  {
+    "ID quận huyện": 64,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Bến Cát",
+    "Tên đầy đủ": "Thị xã Bến Cát, Bình Dương"
+  },
+  {
+    "ID quận huyện": 65,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Dầu Tiếng",
+    "Tên đầy đủ": "Huyện Dầu Tiếng, Bình Dương"
+  },
+  {
+    "ID quận huyện": 66,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Dĩ An",
+    "Tên đầy đủ": "Thành phố Dĩ An, Bình Dương"
+  },
+  {
+    "ID quận huyện": 67,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Giáo",
+    "Tên đầy đủ": "Huyện Phú Giáo, Bình Dương"
+  },
+  {
+    "ID quận huyện": 68,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Tân Uyên",
+    "Tên đầy đủ": "Thị xã Tân Uyên, Bình Dương"
+  },
+  {
+    "ID quận huyện": 69,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thủ Dầu Một",
+    "Tên đầy đủ": "Thành phố Thủ Dầu Một, Bình Dương"
+  },
+  {
+    "ID quận huyện": 70,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Thuận An",
+    "Tên đầy đủ": "Thành phố Thuận An, Bình Dương"
+  },
+  {
+    "ID quận huyện": 71,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Biên Hòa",
+    "Tên đầy đủ": "Thành phố Biên Hòa, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 72,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cẩm Mỹ",
+    "Tên đầy đủ": "Huyện Cẩm Mỹ, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 73,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Định Quán",
+    "Tên đầy đủ": "Huyện Định Quán, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 74,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Long Khánh",
+    "Tên đầy đủ": "Thành phố Long Khánh, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 75,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Long Thành",
+    "Tên đầy đủ": "Huyện Long Thành, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 76,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nhơn Trạch",
+    "Tên đầy đủ": "Huyện Nhơn Trạch, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 77,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Huyện Tân Phú",
+    "Tên đầy đủ": "Huyện Tân Phú, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 78,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thống Nhất",
+    "Tên đầy đủ": "Huyện Thống Nhất, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 79,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trảng Bom",
+    "Tên đầy đủ": "Huyện Trảng Bom, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 80,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Cửu",
+    "Tên đầy đủ": "Huyện Vĩnh Cửu, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 81,
+    "ID tỉnh thành": 17,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Xuân Lộc",
+    "Tên đầy đủ": "Huyện Xuân Lộc, Đồng Nai"
+  },
+  {
+    "ID quận huyện": 82,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cam Lâm",
+    "Tên đầy đủ": "Huyện Cam Lâm, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 83,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Cam Ranh",
+    "Tên đầy đủ": "Thành phố Cam Ranh, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 84,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Diên Khánh",
+    "Tên đầy đủ": "Huyện Diên Khánh, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 85,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Khánh Sơn",
+    "Tên đầy đủ": "Huyện Khánh Sơn, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 86,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Khánh Vĩnh",
+    "Tên đầy đủ": "Huyện Khánh Vĩnh, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 87,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Nha Trang",
+    "Tên đầy đủ": "Thành phố Nha Trang, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 88,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Ninh Hòa",
+    "Tên đầy đủ": "Thị xã Ninh Hòa, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 89,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trường Sa",
+    "Tên đầy đủ": "Huyện Trường Sa, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 90,
+    "ID tỉnh thành": 30,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vạn Ninh",
+    "Tên đầy đủ": "Huyện Vạn Ninh, Khánh Hòa"
+  },
+  {
+    "ID quận huyện": 91,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "An Dương",
+    "Tên đầy đủ": "Huyện An Dương, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 92,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "An Lão",
+    "Tên đầy đủ": "Huyện An Lão, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 93,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bạch Long Vĩ",
+    "Tên đầy đủ": "Huyện Bạch Long Vĩ, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 94,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cát Hải",
+    "Tên đầy đủ": "Huyện Cát Hải, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 95,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Đồ Sơn",
+    "Tên đầy đủ": "Quận Đồ Sơn, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 96,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Dương Kinh",
+    "Tên đầy đủ": "Quận Dương Kinh, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 97,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Hải An",
+    "Tên đầy đủ": "Quận Hải An, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 98,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Hồng Bàng",
+    "Tên đầy đủ": "Quận Hồng Bàng, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 99,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Kiến An",
+    "Tên đầy đủ": "Quận Kiến An, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 100,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kiến Thuỵ",
+    "Tên đầy đủ": "Huyện Kiến Thuỵ, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 101,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Lê Chân",
+    "Tên đầy đủ": "Quận Lê Chân, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 102,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Ngô Quyền",
+    "Tên đầy đủ": "Quận Ngô Quyền, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 103,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thuỷ Nguyên",
+    "Tên đầy đủ": "Huyện Thuỷ Nguyên, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 104,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tiên Lãng",
+    "Tên đầy đủ": "Huyện Tiên Lãng, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 105,
+    "ID tỉnh thành": 26,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Bảo",
+    "Tên đầy đủ": "Huyện Vĩnh Bảo, Hải Phòng"
+  },
+  {
+    "ID quận huyện": 106,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bến Lức",
+    "Tên đầy đủ": "Huyện Bến Lức, Long An"
+  },
+  {
+    "ID quận huyện": 107,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cần Đước",
+    "Tên đầy đủ": "Huyện Cần Đước, Long An"
+  },
+  {
+    "ID quận huyện": 108,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cần Giuộc",
+    "Tên đầy đủ": "Huyện Cần Giuộc, Long An"
+  },
+  {
+    "ID quận huyện": 109,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Long An"
+  },
+  {
+    "ID quận huyện": 110,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đức Hòa",
+    "Tên đầy đủ": "Huyện Đức Hòa, Long An"
+  },
+  {
+    "ID quận huyện": 111,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đức Huệ",
+    "Tên đầy đủ": "Huyện Đức Huệ, Long An"
+  },
+  {
+    "ID quận huyện": 112,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Kiến Tường",
+    "Tên đầy đủ": "Thị xã Kiến Tường, Long An"
+  },
+  {
+    "ID quận huyện": 113,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mộc Hóa",
+    "Tên đầy đủ": "Huyện Mộc Hóa, Long An"
+  },
+  {
+    "ID quận huyện": 114,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Tân An",
+    "Tên đầy đủ": "Thành phố Tân An, Long An"
+  },
+  {
+    "ID quận huyện": 115,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Hưng",
+    "Tên đầy đủ": "Huyện Tân Hưng, Long An"
+  },
+  {
+    "ID quận huyện": 116,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Thạnh",
+    "Tên đầy đủ": "Huyện Tân Thạnh, Long An"
+  },
+  {
+    "ID quận huyện": 117,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Trụ",
+    "Tên đầy đủ": "Huyện Tân Trụ, Long An"
+  },
+  {
+    "ID quận huyện": 118,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thạnh Hóa",
+    "Tên đầy đủ": "Huyện Thạnh Hóa, Long An"
+  },
+  {
+    "ID quận huyện": 119,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thủ Thừa",
+    "Tên đầy đủ": "Huyện Thủ Thừa, Long An"
+  },
+  {
+    "ID quận huyện": 120,
+    "ID tỉnh thành": 37,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Hưng",
+    "Tên đầy đủ": "Huyện Vĩnh Hưng, Long An"
+  },
+  {
+    "ID quận huyện": 121,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Trà My",
+    "Tên đầy đủ": "Huyện Bắc Trà My, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 122,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đại Lộc",
+    "Tên đầy đủ": "Huyện Đại Lộc, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 123,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Điện Bàn",
+    "Tên đầy đủ": "Thị xã Điện Bàn, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 124,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đông Giang",
+    "Tên đầy đủ": "Huyện Đông Giang, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 125,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Duy Xuyên",
+    "Tên đầy đủ": "Huyện Duy Xuyên, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 126,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hiệp Đức",
+    "Tên đầy đủ": "Huyện Hiệp Đức, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 127,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hội An",
+    "Tên đầy đủ": "Thành phố Hội An, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 128,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nam Giang",
+    "Tên đầy đủ": "Huyện Nam Giang, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 129,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nam Trà My",
+    "Tên đầy đủ": "Huyện Nam Trà My, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 130,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nông Sơn",
+    "Tên đầy đủ": "Huyện Nông Sơn, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 131,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Núi Thành",
+    "Tên đầy đủ": "Huyện Núi Thành, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 132,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Ninh",
+    "Tên đầy đủ": "Huyện Phú Ninh, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 133,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phước Sơn",
+    "Tên đầy đủ": "Huyện Phước Sơn, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 134,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quế Sơn",
+    "Tên đầy đủ": "Huyện Quế Sơn, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 135,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Tam Kỳ",
+    "Tên đầy đủ": "Thành phố Tam Kỳ, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 136,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tây Giang",
+    "Tên đầy đủ": "Huyện Tây Giang, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 137,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thăng Bình",
+    "Tên đầy đủ": "Huyện Thăng Bình, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 138,
+    "ID tỉnh thành": 45,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tiên Phước",
+    "Tên đầy đủ": "Huyện Tiên Phước, Quảng Nam"
+  },
+  {
+    "ID quận huyện": 139,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Bà Rịa",
+    "Tên đầy đủ": "Thành phố Bà Rịa, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 140,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Đức",
+    "Tên đầy đủ": "Huyện Châu Đức, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 141,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Côn Đảo",
+    "Tên đầy đủ": "Huyện Côn Đảo, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 142,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đất Đỏ",
+    "Tên đầy đủ": "Huyện Đất Đỏ, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 143,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Long Điền",
+    "Tên đầy đủ": "Huyện Long Điền, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 144,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Phú Mỹ",
+    "Tên đầy đủ": "Thị xã Phú Mỹ, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 145,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Vũng Tàu",
+    "Tên đầy đủ": "Thành phố Vũng Tàu, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 146,
+    "ID tỉnh thành": 67,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Xuyên Mộc",
+    "Tên đầy đủ": "Huyện Xuyên Mộc, Bà Rịa - Vũng Tàu"
+  },
+  {
+    "ID quận huyện": 147,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Buôn Đôn",
+    "Tên đầy đủ": "Huyện Buôn Đôn, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 148,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Buôn Hồ",
+    "Tên đầy đủ": "Thị Xã Buôn Hồ, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 149,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Buôn Ma Thuột",
+    "Tên đầy đủ": "Thành phố Buôn Ma Thuột, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 150,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cư Kuin",
+    "Tên đầy đủ": "Huyện Cư Kuin, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 151,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cư M'gar",
+    "Tên đầy đủ": "Huyện Cư M'gar, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 152,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ea H'Leo",
+    "Tên đầy đủ": "Huyện Ea H'leo, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 153,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ea Kar",
+    "Tên đầy đủ": "Huyện Ea Kar, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 154,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ea Súp",
+    "Tên đầy đủ": "Huyện Ea Súp, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 155,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Krông A Na",
+    "Tên đầy đủ": "Huyện Krông A Na, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 156,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Krông Bông",
+    "Tên đầy đủ": "Huyện Krông Bông, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 157,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Krông Búk",
+    "Tên đầy đủ": "Huyện Krông Búk, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 158,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Krông Năng",
+    "Tên đầy đủ": "Huyện Krông Năng, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 159,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Krông Pắc",
+    "Tên đầy đủ": "Huyện Krông Pắc, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 160,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lắk",
+    "Tên đầy đủ": "Huyện Lắk, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 161,
+    "ID tỉnh thành": 72,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "M'Đrắk",
+    "Tên đầy đủ": "Huyện M'Đrắk, Đắk Lắk"
+  },
+  {
+    "ID quận huyện": 162,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thới Lai",
+    "Tên đầy đủ": "Huyện Thới Lai, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 163,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Bình Thuỷ",
+    "Tên đầy đủ": "Quận Bình Thuỷ, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 164,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Cái Răng",
+    "Tên đầy đủ": "Quận Cái Răng, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 165,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cờ Đỏ",
+    "Tên đầy đủ": "Huyện Cờ Đỏ, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 166,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Ninh Kiều",
+    "Tên đầy đủ": "Quận Ninh Kiều, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 167,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Ô Môn",
+    "Tên đầy đủ": "Quận Ô Môn, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 168,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phong Điền",
+    "Tên đầy đủ": "Huyện Phong Điền, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 169,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Quận",
+    "Tên Quận huyện": "Thốt Nốt",
+    "Tên đầy đủ": "Quận Thốt Nốt, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 170,
+    "ID tỉnh thành": 14,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Thạnh",
+    "Tên đầy đủ": "Huyện Vĩnh Thạnh, Cần Thơ"
+  },
+  {
+    "ID quận huyện": 171,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Bình",
+    "Tên đầy đủ": "Huyện Bắc Bình, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 172,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Quí",
+    "Tên đầy đủ": "Huyện Phú Quí, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 173,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đức Linh",
+    "Tên đầy đủ": "Huyện Đức Linh, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 174,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hàm Tân",
+    "Tên đầy đủ": "Huyện Hàm Tân, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 175,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hàm Thuận Bắc",
+    "Tên đầy đủ": "Huyện Hàm Thuận Bắc, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 176,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hàm Thuận Nam",
+    "Tên đầy đủ": "Huyện Hàm Thuận Nam, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 177,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "La Gi",
+    "Tên đầy đủ": "Thị xã La Gi, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 178,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Phan Thiết",
+    "Tên đầy đủ": "Thành phố Phan Thiết, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 179,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tánh Linh",
+    "Tên đầy đủ": "Huyện Tánh Linh, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 180,
+    "ID tỉnh thành": 11,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tuy Phong",
+    "Tên đầy đủ": "Huyện Tuy Phong, Bình Thuận"
+  },
+  {
+    "ID quận huyện": 181,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bảo Lâm",
+    "Tên đầy đủ": "Huyện Bảo Lâm, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 182,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Bảo Lộc",
+    "Tên đầy đủ": "Thành phố Bảo Lộc, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 183,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cát Tiên",
+    "Tên đầy đủ": "Huyện Cát Tiên, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 184,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đạ Huoai",
+    "Tên đầy đủ": "Huyện Đạ Huoai, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 185,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Đà Lạt",
+    "Tên đầy đủ": "Thành phố Đà Lạt, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 186,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đạ Tẻh",
+    "Tên đầy đủ": "Huyện Đạ Tẻh, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 187,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đam Rông",
+    "Tên đầy đủ": "Huyện Đam Rông, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 188,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Di Linh",
+    "Tên đầy đủ": "Huyện Di Linh, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 189,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đơn Dương",
+    "Tên đầy đủ": "Huyện Đơn Dương, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 190,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đức Trọng",
+    "Tên đầy đủ": "Huyện Đức Trọng, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 191,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lạc Dương",
+    "Tên đầy đủ": "Huyện Lạc Dương, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 192,
+    "ID tỉnh thành": 36,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lâm Hà",
+    "Tên đầy đủ": "Huyện Lâm Hà, Lâm Đồng"
+  },
+  {
+    "ID quận huyện": 193,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "A Lưới",
+    "Tên đầy đủ": "Huyện A Lưới, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 194,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Huế",
+    "Tên đầy đủ": "Thành phố Huế, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 195,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Hương Thủy",
+    "Tên đầy đủ": "Thị xã Hương Thủy, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 196,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Hương Trà",
+    "Tên đầy đủ": "Thị xã Hương Trà, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 197,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nam Đông",
+    "Tên đầy đủ": "Huyện Nam Đông, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 198,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phong Điền",
+    "Tên đầy đủ": "Huyện Phong Điền, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 199,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Lộc",
+    "Tên đầy đủ": "Huyện Phú Lộc, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 200,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Vang",
+    "Tên đầy đủ": "Huyện Phú Vang, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 201,
+    "ID tỉnh thành": 55,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quảng Điền",
+    "Tên đầy đủ": "Huyện Quảng Điền, Thừa Thiên Huế"
+  },
+  {
+    "ID quận huyện": 202,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "An Biên",
+    "Tên đầy đủ": "Huyện An Biên, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 203,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "An Minh",
+    "Tên đầy đủ": "Huyện An Minh, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 204,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 205,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Giang Thành",
+    "Tên đầy đủ": "Huyện Giang Thành, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 206,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Giồng Riềng",
+    "Tên đầy đủ": "Huyện Giồng Riềng, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 207,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gò Quao",
+    "Tên đầy đủ": "Huyện Gò Quao, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 208,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Hà Tiên",
+    "Tên đầy đủ": "Thành phố Hà Tiên, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 209,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hòn Đất",
+    "Tên đầy đủ": "Huyện Hòn Đất, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 210,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kiên Hải",
+    "Tên đầy đủ": "Huyện Kiên Hải, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 211,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kiên Lương",
+    "Tên đầy đủ": "Huyện Kiên Lương, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 212,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Phú Quốc",
+    "Tên đầy đủ": "Thành phố Phú Quốc, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 213,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Rạch Giá",
+    "Tên đầy đủ": "Thành phố Rạch Giá, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 214,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Hiệp",
+    "Tên đầy đủ": "Huyện Tân Hiệp, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 215,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "U minh Thượng",
+    "Tên đầy đủ": "Huyện U Minh Thượng, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 216,
+    "ID tỉnh thành": 31,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Thuận",
+    "Tên đầy đủ": "Huyện Vĩnh Thuận, Kiên Giang"
+  },
+  {
+    "ID quận huyện": 217,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Bắc Ninh",
+    "Tên đầy đủ": "Thành phố Bắc Ninh, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 218,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gia Bình",
+    "Tên đầy đủ": "Huyện Gia Bình, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 219,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lương Tài",
+    "Tên đầy đủ": "Huyện Lương Tài, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 220,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quế Võ",
+    "Tên đầy đủ": "Huyện Quế Võ, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 221,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thuận Thành",
+    "Tên đầy đủ": "Huyện Thuận Thành, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 222,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tiên Du",
+    "Tên đầy đủ": "Huyện Tiên Du, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 223,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Từ Sơn",
+    "Tên đầy đủ": "Thành phố Từ Sơn, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 224,
+    "ID tỉnh thành": 6,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Phong",
+    "Tên đầy đủ": "Huyện Yên Phong, Bắc Ninh"
+  },
+  {
+    "ID quận huyện": 225,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ba Chẽ",
+    "Tên đầy đủ": "Huyện Ba Chẽ, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 226,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Liêu",
+    "Tên đầy đủ": "Huyện Bình Liêu, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 227,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Cẩm Phả",
+    "Tên đầy đủ": "Thành phố Cẩm Phả, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 228,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cô Tô",
+    "Tên đầy đủ": "Huyện Cô Tô, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 229,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đầm Hà",
+    "Tên đầy đủ": "Huyện Đầm Hà, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 230,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Đông Triều",
+    "Tên đầy đủ": "Thị xã Đông Triều, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 231,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hạ Long",
+    "Tên đầy đủ": "Thành phố Hạ Long, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 232,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hải Hà",
+    "Tên đầy đủ": "Huyện Hải Hà, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 234,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Móng Cái",
+    "Tên đầy đủ": "Thành phố Móng Cái, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 235,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Quảng Yên",
+    "Tên đầy đủ": "Thị xã Quảng Yên, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 236,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tiên Yên",
+    "Tên đầy đủ": "Huyện Tiên Yên, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 237,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Uông Bí",
+    "Tên đầy đủ": "Thành phố Uông Bí, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 238,
+    "ID tỉnh thành": 47,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vân Đồn",
+    "Tên đầy đủ": "Huyện Vân Đồn, Quảng Ninh"
+  },
+  {
+    "ID quận huyện": 239,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bá Thước",
+    "Tên đầy đủ": "Huyện Bá Thước, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 240,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Bỉm Sơn",
+    "Tên đầy đủ": "Thị xã Bỉm Sơn, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 241,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cẩm Thủy",
+    "Tên đầy đủ": "Huyện Cẩm Thủy, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 242,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đông Sơn",
+    "Tên đầy đủ": "Huyện Đông Sơn, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 243,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hà Trung",
+    "Tên đầy đủ": "Huyện Hà Trung, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 244,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hậu Lộc",
+    "Tên đầy đủ": "Huyện Hậu Lộc, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 245,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoằng Hóa",
+    "Tên đầy đủ": "Huyện Hoằng Hóa, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 246,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lang Chánh",
+    "Tên đầy đủ": "Huyện Lang Chánh, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 247,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mường Lát",
+    "Tên đầy đủ": "Huyện Mường Lát, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 248,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nga Sơn",
+    "Tên đầy đủ": "Huyện Nga Sơn, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 249,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ngọc Lặc",
+    "Tên đầy đủ": "Huyện Ngọc Lặc, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 250,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Như Thanh",
+    "Tên đầy đủ": "Huyện Như Thanh, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 251,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Như Xuân",
+    "Tên đầy đủ": "Huyện Như Xuân, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 252,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nông Cống",
+    "Tên đầy đủ": "Huyện Nông Cống, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 253,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quan Hóa",
+    "Tên đầy đủ": "Huyện Quan Hóa, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 254,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quan Sơn",
+    "Tên đầy đủ": "Huyện Quan Sơn, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 255,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quảng Xương",
+    "Tên đầy đủ": "Huyện Quảng Xương, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 256,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Sầm Sơn",
+    "Tên đầy đủ": "Thành phố Sầm Sơn, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 257,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thạch Thành",
+    "Tên đầy đủ": "Huyện Thạch Thành, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 258,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thanh Hóa",
+    "Tên đầy đủ": "Thành phố Thanh Hóa, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 259,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thiệu Hóa",
+    "Tên đầy đủ": "Huyện Thiệu Hóa, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 260,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thọ Xuân",
+    "Tên đầy đủ": "Huyện Thọ Xuân, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 261,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thường Xuân",
+    "Tên đầy đủ": "Huyện Thường Xuân, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 262,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Nghi Sơn",
+    "Tên đầy đủ": "Thị xã Nghi Sơn, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 263,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Triệu Sơn",
+    "Tên đầy đủ": "Huyện Triệu Sơn, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 264,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Lộc",
+    "Tên đầy đủ": "Huyện Vĩnh Lộc, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 265,
+    "ID tỉnh thành": 54,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Định",
+    "Tên đầy đủ": "Huyện Yên Định, Thanh Hoá"
+  },
+  {
+    "ID quận huyện": 266,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Anh Sơn",
+    "Tên đầy đủ": "Huyện Anh Sơn, Nghệ An"
+  },
+  {
+    "ID quận huyện": 267,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Con Cuông",
+    "Tên đầy đủ": "Huyện Con Cuông, Nghệ An"
+  },
+  {
+    "ID quận huyện": 268,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Cửa Lò",
+    "Tên đầy đủ": "Thị xã Cửa Lò, Nghệ An"
+  },
+  {
+    "ID quận huyện": 269,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Diễn Châu",
+    "Tên đầy đủ": "Huyện Diễn Châu, Nghệ An"
+  },
+  {
+    "ID quận huyện": 270,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đô Lương",
+    "Tên đầy đủ": "Huyện Đô Lương, Nghệ An"
+  },
+  {
+    "ID quận huyện": 271,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Hoàng Mai",
+    "Tên đầy đủ": "Thị xã Hoàng Mai, Nghệ An"
+  },
+  {
+    "ID quận huyện": 272,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hưng Nguyên",
+    "Tên đầy đủ": "Huyện Hưng Nguyên, Nghệ An"
+  },
+  {
+    "ID quận huyện": 273,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kỳ Sơn",
+    "Tên đầy đủ": "Huyện Kỳ Sơn, Nghệ An"
+  },
+  {
+    "ID quận huyện": 274,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nam Đàn",
+    "Tên đầy đủ": "Huyện Nam Đàn, Nghệ An"
+  },
+  {
+    "ID quận huyện": 275,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nghi Lộc",
+    "Tên đầy đủ": "Huyện Nghi Lộc, Nghệ An"
+  },
+  {
+    "ID quận huyện": 276,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nghĩa Đàn",
+    "Tên đầy đủ": "Huyện Nghĩa Đàn, Nghệ An"
+  },
+  {
+    "ID quận huyện": 277,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quế Phong",
+    "Tên đầy đủ": "Huyện Quế Phong, Nghệ An"
+  },
+  {
+    "ID quận huyện": 278,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quỳ Châu",
+    "Tên đầy đủ": "Huyện Quỳ Châu, Nghệ An"
+  },
+  {
+    "ID quận huyện": 279,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quỳ Hợp",
+    "Tên đầy đủ": "Huyện Quỳ Hợp, Nghệ An"
+  },
+  {
+    "ID quận huyện": 280,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quỳnh Lưu",
+    "Tên đầy đủ": "Huyện Quỳnh Lưu, Nghệ An"
+  },
+  {
+    "ID quận huyện": 281,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Kỳ",
+    "Tên đầy đủ": "Huyện Tân Kỳ, Nghệ An"
+  },
+  {
+    "ID quận huyện": 282,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thái Hoà",
+    "Tên đầy đủ": "Thị xã Thái Hoà, Nghệ An"
+  },
+  {
+    "ID quận huyện": 283,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Chương",
+    "Tên đầy đủ": "Huyện Thanh Chương, Nghệ An"
+  },
+  {
+    "ID quận huyện": 284,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tương Dương",
+    "Tên đầy đủ": "Huyện Tương Dương, Nghệ An"
+  },
+  {
+    "ID quận huyện": 285,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Vinh",
+    "Tên đầy đủ": "Thành phố Vinh, Nghệ An"
+  },
+  {
+    "ID quận huyện": 286,
+    "ID tỉnh thành": 39,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Thành",
+    "Tên đầy đủ": "Huyện Yên Thành, Nghệ An"
+  },
+  {
+    "ID quận huyện": 287,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Giang",
+    "Tên đầy đủ": "Huyện Bình Giang, Hải Dương"
+  },
+  {
+    "ID quận huyện": 288,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cẩm Giàng",
+    "Tên đầy đủ": "Huyện Cẩm Giàng, Hải Dương"
+  },
+  {
+    "ID quận huyện": 289,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Chí Linh",
+    "Tên đầy đủ": "Thành phố Chí Linh, Hải Dương"
+  },
+  {
+    "ID quận huyện": 290,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gia Lộc",
+    "Tên đầy đủ": "Huyện Gia Lộc, Hải Dương"
+  },
+  {
+    "ID quận huyện": 291,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hải Dương",
+    "Tên đầy đủ": "Thành phố Hải Dương, Hải Dương"
+  },
+  {
+    "ID quận huyện": 292,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kim Thành",
+    "Tên đầy đủ": "Huyện Kim Thành, Hải Dương"
+  },
+  {
+    "ID quận huyện": 293,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Kinh Môn",
+    "Tên đầy đủ": "Thị xã Kinh Môn, Hải Dương"
+  },
+  {
+    "ID quận huyện": 294,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nam Sách",
+    "Tên đầy đủ": "Huyện Nam Sách, Hải Dương"
+  },
+  {
+    "ID quận huyện": 295,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ninh Giang",
+    "Tên đầy đủ": "Huyện Ninh Giang, Hải Dương"
+  },
+  {
+    "ID quận huyện": 296,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Hà",
+    "Tên đầy đủ": "Huyện Thanh Hà, Hải Dương"
+  },
+  {
+    "ID quận huyện": 297,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Miện",
+    "Tên đầy đủ": "Huyện Thanh Miện, Hải Dương"
+  },
+  {
+    "ID quận huyện": 298,
+    "ID tỉnh thành": 25,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tứ Kỳ",
+    "Tên đầy đủ": "Huyện Tứ Kỳ, Hải Dương"
+  },
+  {
+    "ID quận huyện": 299,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "An Khê",
+    "Tên đầy đủ": "Thị xã An Khê, Gia Lai"
+  },
+  {
+    "ID quận huyện": 300,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "AYun Pa",
+    "Tên đầy đủ": "Thị xã Ayun Pa, Gia Lai"
+  },
+  {
+    "ID quận huyện": 301,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chư Păh",
+    "Tên đầy đủ": "Huyện Chư Păh, Gia Lai"
+  },
+  {
+    "ID quận huyện": 302,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chư Pưh",
+    "Tên đầy đủ": "Huyện Chư Pưh, Gia Lai"
+  },
+  {
+    "ID quận huyện": 303,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chư Sê",
+    "Tên đầy đủ": "Huyện Chư Sê, Gia Lai"
+  },
+  {
+    "ID quận huyện": 304,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chư Prông",
+    "Tên đầy đủ": "Huyện Chư Prông, Gia Lai"
+  },
+  {
+    "ID quận huyện": 305,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đăk Đoa",
+    "Tên đầy đủ": "Huyện Đăk Đoa, Gia Lai"
+  },
+  {
+    "ID quận huyện": 306,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đăk Pơ",
+    "Tên đầy đủ": "Huyện Đăk Pơ, Gia Lai"
+  },
+  {
+    "ID quận huyện": 307,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đức Cơ",
+    "Tên đầy đủ": "Huyện Đức Cơ, Gia Lai"
+  },
+  {
+    "ID quận huyện": 308,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ia Grai",
+    "Tên đầy đủ": "Huyện Ia Grai, Gia Lai"
+  },
+  {
+    "ID quận huyện": 309,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ia Pa",
+    "Tên đầy đủ": "Huyện Ia Pa, Gia Lai"
+  },
+  {
+    "ID quận huyện": 310,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "KBang",
+    "Tên đầy đủ": "Huyện KBang, Gia Lai"
+  },
+  {
+    "ID quận huyện": 311,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kông Chro",
+    "Tên đầy đủ": "Huyện Kông Chro, Gia Lai"
+  },
+  {
+    "ID quận huyện": 312,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Krông Pa",
+    "Tên đầy đủ": "Huyện Krông Pa, Gia Lai"
+  },
+  {
+    "ID quận huyện": 313,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mang Yang",
+    "Tên đầy đủ": "Huyện Mang Yang, Gia Lai"
+  },
+  {
+    "ID quận huyện": 314,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Thiện",
+    "Tên đầy đủ": "Huyện Phú Thiện, Gia Lai"
+  },
+  {
+    "ID quận huyện": 315,
+    "ID tỉnh thành": 19,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Pleiku",
+    "Tên đầy đủ": "Thành phố Pleiku, Gia Lai"
+  },
+  {
+    "ID quận huyện": 316,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Bình Long",
+    "Tên đầy đủ": "Thị xã Bình Long, Bình Phước"
+  },
+  {
+    "ID quận huyện": 317,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bù Đăng",
+    "Tên đầy đủ": "Huyện Bù Đăng, Bình Phước"
+  },
+  {
+    "ID quận huyện": 318,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bù Đốp",
+    "Tên đầy đủ": "Huyện Bù Đốp, Bình Phước"
+  },
+  {
+    "ID quận huyện": 319,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bù Gia Mập",
+    "Tên đầy đủ": "Huyện Bù Gia Mập, Bình Phước"
+  },
+  {
+    "ID quận huyện": 320,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Chơn Thành",
+    "Tên đầy đủ": "Thị xã Chơn Thành, Bình Phước"
+  },
+  {
+    "ID quận huyện": 321,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đồng Phú",
+    "Tên đầy đủ": "Huyện Đồng Phú, Bình Phước"
+  },
+  {
+    "ID quận huyện": 322,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Đồng Xoài",
+    "Tên đầy đủ": "Thành phố Đồng Xoài, Bình Phước"
+  },
+  {
+    "ID quận huyện": 323,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hớn Quản",
+    "Tên đầy đủ": "Huyện Hớn Quản, Bình Phước"
+  },
+  {
+    "ID quận huyện": 324,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lộc Ninh",
+    "Tên đầy đủ": "Huyện Lộc Ninh, Bình Phước"
+  },
+  {
+    "ID quận huyện": 325,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Riềng",
+    "Tên đầy đủ": "Huyện Phú Riềng, Bình Phước"
+  },
+  {
+    "ID quận huyện": 326,
+    "ID tỉnh thành": 10,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Phước Long",
+    "Tên đầy đủ": "Thị xã Phước Long, Bình Phước"
+  },
+  {
+    "ID quận huyện": 327,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ân Thi",
+    "Tên đầy đủ": "Huyện Ân Thi, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 328,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hưng Yên",
+    "Tên đầy đủ": "Thành phố Hưng Yên, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 329,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Khoái Châu",
+    "Tên đầy đủ": "Huyện Khoái Châu, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 330,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kim Động",
+    "Tên đầy đủ": "Huyện Kim Động, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 331,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Mỹ Hào",
+    "Tên đầy đủ": "Thị xã Mỹ Hào, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 332,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phù Cừ",
+    "Tên đầy đủ": "Huyện Phù Cừ, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 333,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tiên Lữ",
+    "Tên đầy đủ": "Huyện Tiên Lữ, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 334,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Văn Giang",
+    "Tên đầy đủ": "Huyện Văn Giang, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 335,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Văn Lâm",
+    "Tên đầy đủ": "Huyện Văn Lâm, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 336,
+    "ID tỉnh thành": 28,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Mỹ",
+    "Tên đầy đủ": "Huyện Yên Mỹ, Hưng Yên"
+  },
+  {
+    "ID quận huyện": 337,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "An Lão",
+    "Tên đầy đủ": "Huyện An Lão, Bình Định"
+  },
+  {
+    "ID quận huyện": 338,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã An Nhơn",
+    "Tên đầy đủ": "Thị xã An Nhơn, Bình Định"
+  },
+  {
+    "ID quận huyện": 339,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoài Ân",
+    "Tên đầy đủ": "Huyện Hoài Ân, Bình Định"
+  },
+  {
+    "ID quận huyện": 340,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Hoài Nhơn",
+    "Tên đầy đủ": "Thị xã Hoài Nhơn, Bình Định"
+  },
+  {
+    "ID quận huyện": 341,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phù Cát",
+    "Tên đầy đủ": "Huyện Phù Cát, Bình Định"
+  },
+  {
+    "ID quận huyện": 342,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phù Mỹ",
+    "Tên đầy đủ": "Huyện Phù Mỹ, Bình Định"
+  },
+  {
+    "ID quận huyện": 343,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Quy Nhơn",
+    "Tên đầy đủ": "Thành phố Quy Nhơn, Bình Định"
+  },
+  {
+    "ID quận huyện": 344,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tây Sơn",
+    "Tên đầy đủ": "Huyện Tây Sơn, Bình Định"
+  },
+  {
+    "ID quận huyện": 345,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tuy Phước",
+    "Tên đầy đủ": "Huyện Tuy Phước, Bình Định"
+  },
+  {
+    "ID quận huyện": 346,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vân Canh",
+    "Tên đầy đủ": "Huyện Vân Canh, Bình Định"
+  },
+  {
+    "ID quận huyện": 347,
+    "ID tỉnh thành": 9,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Thạnh",
+    "Tên đầy đủ": "Huyện Vĩnh Thạnh, Bình Định"
+  },
+  {
+    "ID quận huyện": 348,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cái Bè",
+    "Tên đầy đủ": "Huyện Cái Bè, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 349,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cai Lậy",
+    "Tên đầy đủ": "Huyện Cai Lậy, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 350,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 351,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chợ Gạo",
+    "Tên đầy đủ": "Huyện Chợ Gạo, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 352,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Gò Công",
+    "Tên đầy đủ": "Thị xã Gò Công, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 353,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gò Công Đông",
+    "Tên đầy đủ": "Huyện Gò Công Đông, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 354,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gò Công Tây",
+    "Tên đầy đủ": "Huyện Gò Công Tây, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 355,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Cai Lậy",
+    "Tên đầy đủ": "Thị xã Cai Lậy, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 356,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Mỹ Tho",
+    "Tên đầy đủ": "Thành phố Mỹ Tho, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 357,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Phú Đông",
+    "Tên đầy đủ": "Huyện Tân Phú Đông, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 358,
+    "ID tỉnh thành": 56,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Phước",
+    "Tên đầy đủ": "Huyện Tân Phước, Tiền Giang"
+  },
+  {
+    "ID quận huyện": 359,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đông Hưng",
+    "Tên đầy đủ": "Huyện Đông Hưng, Thái Bình"
+  },
+  {
+    "ID quận huyện": 360,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hưng Hà",
+    "Tên đầy đủ": "Huyện Hưng Hà, Thái Bình"
+  },
+  {
+    "ID quận huyện": 361,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kiến Xương",
+    "Tên đầy đủ": "Huyện Kiến Xương, Thái Bình"
+  },
+  {
+    "ID quận huyện": 362,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quỳnh Phụ",
+    "Tên đầy đủ": "Huyện Quỳnh Phụ, Thái Bình"
+  },
+  {
+    "ID quận huyện": 363,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thái Bình",
+    "Tên đầy đủ": "Thành phố Thái Bình, Thái Bình"
+  },
+  {
+    "ID quận huyện": 364,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thái Thụy",
+    "Tên đầy đủ": "Huyện Thái Thụy, Thái Bình"
+  },
+  {
+    "ID quận huyện": 365,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tiền Hải",
+    "Tên đầy đủ": "Huyện Tiền Hải, Thái Bình"
+  },
+  {
+    "ID quận huyện": 366,
+    "ID tỉnh thành": 52,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vũ Thư",
+    "Tên đầy đủ": "Huyện Vũ Thư, Thái Bình"
+  },
+  {
+    "ID quận huyện": 367,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Bắc Giang",
+    "Tên đầy đủ": "Thành phố Bắc Giang, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 368,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hiệp Hòa",
+    "Tên đầy đủ": "Huyện Hiệp Hòa, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 369,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lạng Giang",
+    "Tên đầy đủ": "Huyện Lạng Giang, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 370,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lục Nam",
+    "Tên đầy đủ": "Huyện Lục Nam, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 371,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lục Ngạn",
+    "Tên đầy đủ": "Huyện Lục Ngạn, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 372,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sơn Động",
+    "Tên đầy đủ": "Huyện Sơn Động, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 373,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Yên",
+    "Tên đầy đủ": "Huyện Tân Yên, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 374,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Việt Yên",
+    "Tên đầy đủ": "Huyện Việt Yên, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 375,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Dũng",
+    "Tên đầy đủ": "Huyện Yên Dũng, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 376,
+    "ID tỉnh thành": 5,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Thế",
+    "Tên đầy đủ": "Huyện Yên Thế, Bắc Giang"
+  },
+  {
+    "ID quận huyện": 377,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cao Phong",
+    "Tên đầy đủ": "Huyện Cao Phong, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 378,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đà Bắc",
+    "Tên đầy đủ": "Huyện Đà Bắc, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 379,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hòa Bình",
+    "Tên đầy đủ": "Thành phố Hòa Bình, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 380,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kim Bôi",
+    "Tên đầy đủ": "Huyện Kim Bôi, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 382,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lạc Sơn",
+    "Tên đầy đủ": "Huyện Lạc Sơn, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 383,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lạc Thủy",
+    "Tên đầy đủ": "Huyện Lạc Thủy, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 384,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lương Sơn",
+    "Tên đầy đủ": "Huyện Lương Sơn, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 385,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mai Châu",
+    "Tên đầy đủ": "Huyện Mai Châu, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 386,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Lạc",
+    "Tên đầy đủ": "Huyện Tân Lạc, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 387,
+    "ID tỉnh thành": 27,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Thủy",
+    "Tên đầy đủ": "Huyện Yên Thủy, Hoà Bình"
+  },
+  {
+    "ID quận huyện": 388,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "An Phú",
+    "Tên đầy đủ": "Huyện An Phú, An Giang"
+  },
+  {
+    "ID quận huyện": 389,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Châu Đốc",
+    "Tên đầy đủ": "Thành phố Châu Đốc, An Giang"
+  },
+  {
+    "ID quận huyện": 390,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Phú",
+    "Tên đầy đủ": "Huyện Châu Phú, An Giang"
+  },
+  {
+    "ID quận huyện": 391,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, An Giang"
+  },
+  {
+    "ID quận huyện": 392,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chợ Mới",
+    "Tên đầy đủ": "Huyện Chợ Mới, An Giang"
+  },
+  {
+    "ID quận huyện": 393,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Long Xuyên",
+    "Tên đầy đủ": "Thành phố Long Xuyên, An Giang"
+  },
+  {
+    "ID quận huyện": 394,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Tân",
+    "Tên đầy đủ": "Huyện Phú Tân, An Giang"
+  },
+  {
+    "ID quận huyện": 395,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Tân Châu",
+    "Tên đầy đủ": "Thị xã Tân Châu, An Giang"
+  },
+  {
+    "ID quận huyện": 396,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thoại Sơn",
+    "Tên đầy đủ": "Huyện Thoại Sơn, An Giang"
+  },
+  {
+    "ID quận huyện": 397,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tịnh Biên",
+    "Tên đầy đủ": "Huyện Tịnh Biên, An Giang"
+  },
+  {
+    "ID quận huyện": 398,
+    "ID tỉnh thành": 66,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tri Tôn",
+    "Tên đầy đủ": "Huyện Tri Tôn, An Giang"
+  },
+  {
+    "ID quận huyện": 399,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Xuyên",
+    "Tên đầy đủ": "Huyện Bình Xuyên, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 400,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lập Thạch",
+    "Tên đầy đủ": "Huyện Lập Thạch, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 401,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Phúc Yên",
+    "Tên đầy đủ": "Thành phố Phúc Yên, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 402,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sông Lô",
+    "Tên đầy đủ": "Huyện Sông Lô, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 403,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tam Đảo",
+    "Tên đầy đủ": "Huyện Tam Đảo, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 404,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tam Dương",
+    "Tên đầy đủ": "Huyện Tam Dương, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 405,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Tường",
+    "Tên đầy đủ": "Huyện Vĩnh Tường, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 406,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Vĩnh Yên",
+    "Tên đầy đủ": "Thành phố Vĩnh Yên, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 407,
+    "ID tỉnh thành": 60,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Lạc",
+    "Tên đầy đủ": "Huyện Yên Lạc, Vĩnh Phúc"
+  },
+  {
+    "ID quận huyện": 408,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bến Cầu",
+    "Tên đầy đủ": "Huyện Bến Cầu, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 409,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 410,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Dương Minh Châu",
+    "Tên đầy đủ": "Huyện Dương Minh Châu, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 411,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gò Dầu",
+    "Tên đầy đủ": "Huyện Gò Dầu, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 412,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Hòa Thành",
+    "Tên đầy đủ": "Thị xã Hòa Thành, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 413,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Biên",
+    "Tên đầy đủ": "Huyện Tân Biên, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 414,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Châu",
+    "Tên đầy đủ": "Huyện Tân Châu, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 415,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Tây Ninh",
+    "Tên đầy đủ": "Thành phố Tây Ninh, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 416,
+    "ID tỉnh thành": 51,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Trảng Bàng",
+    "Tên đầy đủ": "Thị xã Trảng Bàng, Tây Ninh"
+  },
+  {
+    "ID quận huyện": 417,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đại Từ",
+    "Tên đầy đủ": "Huyện Đại Từ, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 418,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Định Hóa",
+    "Tên đầy đủ": "Huyện Định Hóa, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 419,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đồng Hỷ",
+    "Tên đầy đủ": "Huyện Đồng Hỷ, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 420,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Phổ Yên",
+    "Tên đầy đủ": "Thành phố Phổ Yên, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 421,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Bình",
+    "Tên đầy đủ": "Huyện Phú Bình, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 422,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Lương",
+    "Tên đầy đủ": "Huyện Phú Lương, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 423,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Sông Công",
+    "Tên đầy đủ": "Thành phố Sông Công, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 424,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thái Nguyên",
+    "Tên đầy đủ": "Thành phố Thái Nguyên, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 425,
+    "ID tỉnh thành": 53,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Võ Nhai",
+    "Tên đầy đủ": "Huyện Võ Nhai, Thái Nguyên"
+  },
+  {
+    "ID quận huyện": 426,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Hà",
+    "Tên đầy đủ": "Huyện Bắc Hà, Lào Cai"
+  },
+  {
+    "ID quận huyện": 427,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bảo Thắng",
+    "Tên đầy đủ": "Huyện Bảo Thắng, Lào Cai"
+  },
+  {
+    "ID quận huyện": 428,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bảo Yên",
+    "Tên đầy đủ": "Huyện Bảo Yên, Lào Cai"
+  },
+  {
+    "ID quận huyện": 429,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bát Xát",
+    "Tên đầy đủ": "Huyện Bát Xát, Lào Cai"
+  },
+  {
+    "ID quận huyện": 430,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Lào Cai",
+    "Tên đầy đủ": "Thành phố Lào Cai, Lào Cai"
+  },
+  {
+    "ID quận huyện": 431,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mường Khương",
+    "Tên đầy đủ": "Huyện Mường Khương, Lào Cai"
+  },
+  {
+    "ID quận huyện": 432,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Sa Pa",
+    "Tên đầy đủ": "Thị xã Sa Pa, Lào Cai"
+  },
+  {
+    "ID quận huyện": 433,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Văn Bàn",
+    "Tên đầy đủ": "Huyện Văn Bàn, Lào Cai"
+  },
+  {
+    "ID quận huyện": 434,
+    "ID tỉnh thành": 35,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Si Ma Cai",
+    "Tên đầy đủ": "Huyện Si Ma Cai, Lào Cai"
+  },
+  {
+    "ID quận huyện": 435,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Giao Thủy",
+    "Tên đầy đủ": "Huyện Giao Thủy, Nam Định"
+  },
+  {
+    "ID quận huyện": 436,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hải Hậu",
+    "Tên đầy đủ": "Huyện Hải Hậu, Nam Định"
+  },
+  {
+    "ID quận huyện": 437,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mỹ Lộc",
+    "Tên đầy đủ": "Huyện Mỹ Lộc, Nam Định"
+  },
+  {
+    "ID quận huyện": 438,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Nam Định",
+    "Tên đầy đủ": "Thành phố Nam Định, Nam Định"
+  },
+  {
+    "ID quận huyện": 439,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nam Trực",
+    "Tên đầy đủ": "Huyện Nam Trực, Nam Định"
+  },
+  {
+    "ID quận huyện": 440,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nghĩa Hưng",
+    "Tên đầy đủ": "Huyện Nghĩa Hưng, Nam Định"
+  },
+  {
+    "ID quận huyện": 441,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trực Ninh",
+    "Tên đầy đủ": "Huyện Trực Ninh, Nam Định"
+  },
+  {
+    "ID quận huyện": 442,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vụ Bản",
+    "Tên đầy đủ": "Huyện Vụ Bản, Nam Định"
+  },
+  {
+    "ID quận huyện": 443,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Xuân Trường",
+    "Tên đầy đủ": "Huyện Xuân Trường, Nam Định"
+  },
+  {
+    "ID quận huyện": 444,
+    "ID tỉnh thành": 38,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ý Yên",
+    "Tên đầy đủ": "Huyện Ý Yên, Nam Định"
+  },
+  {
+    "ID quận huyện": 445,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ba Tơ",
+    "Tên đầy đủ": "Huyện Ba Tơ, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 446,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Sơn",
+    "Tên đầy đủ": "Huyện Bình Sơn, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 447,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Đức Phổ",
+    "Tên đầy đủ": "Thị xã Đức Phổ, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 448,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lý Sơn",
+    "Tên đầy đủ": "Huyện Lý Sơn, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 449,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Minh Long",
+    "Tên đầy đủ": "Huyện Minh Long, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 450,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mộ Đức",
+    "Tên đầy đủ": "Huyện Mộ Đức, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 451,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nghĩa Hành",
+    "Tên đầy đủ": "Huyện Nghĩa Hành, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 452,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Quảng Ngãi",
+    "Tên đầy đủ": "Thành phố Quảng Ngãi, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 453,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sơn Hà",
+    "Tên đầy đủ": "Huyện Sơn Hà, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 454,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sơn Tây",
+    "Tên đầy đủ": "Huyện Sơn Tây, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 455,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sơn Tịnh",
+    "Tên đầy đủ": "Huyện Sơn Tịnh, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 457,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trà Bồng",
+    "Tên đầy đủ": "Huyện Trà Bồng, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 458,
+    "ID tỉnh thành": 46,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tư Nghĩa",
+    "Tên đầy đủ": "Huyện Tư Nghĩa, Quảng Ngãi"
+  },
+  {
+    "ID quận huyện": 459,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ba Tri",
+    "Tên đầy đủ": "Huyện Ba Tri, Bến Tre"
+  },
+  {
+    "ID quận huyện": 460,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Bến Tre",
+    "Tên đầy đủ": "Thành phố Bến Tre, Bến Tre"
+  },
+  {
+    "ID quận huyện": 461,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Đại",
+    "Tên đầy đủ": "Huyện Bình Đại, Bến Tre"
+  },
+  {
+    "ID quận huyện": 462,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Bến Tre"
+  },
+  {
+    "ID quận huyện": 463,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chợ Lách",
+    "Tên đầy đủ": "Huyện Chợ Lách, Bến Tre"
+  },
+  {
+    "ID quận huyện": 464,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Giồng Trôm",
+    "Tên đầy đủ": "Huyện Giồng Trôm, Bến Tre"
+  },
+  {
+    "ID quận huyện": 465,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mỏ Cày Bắc",
+    "Tên đầy đủ": "Huyện Mỏ Cày Bắc, Bến Tre"
+  },
+  {
+    "ID quận huyện": 466,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mỏ Cày Nam",
+    "Tên đầy đủ": "Huyện Mỏ Cày Nam, Bến Tre"
+  },
+  {
+    "ID quận huyện": 467,
+    "ID tỉnh thành": 75,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thạnh Phú",
+    "Tên đầy đủ": "Huyện Thạnh Phú, Bến Tre"
+  },
+  {
+    "ID quận huyện": 468,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cư Jút",
+    "Tên đầy đủ": "Huyện Cư Jút, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 469,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đăk Glong",
+    "Tên đầy đủ": "Huyện Đăk Glong, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 470,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đắk Mil",
+    "Tên đầy đủ": "Huyện Đắk Mil, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 471,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Dăk R'Lấp",
+    "Tên đầy đủ": "Huyện Đắk R'Lấp, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 472,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đắk Song",
+    "Tên đầy đủ": "Huyện Đắk Song, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 473,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Gia Nghĩa",
+    "Tên đầy đủ": "Thành phố Gia Nghĩa, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 474,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Krông Nô",
+    "Tên đầy đủ": "Huyện Krông Nô, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 475,
+    "ID tỉnh thành": 71,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tuy Đức",
+    "Tên đầy đủ": "Huyện Tuy Đức, Đắk Nông"
+  },
+  {
+    "ID quận huyện": 476,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Cà Mau",
+    "Tên đầy đủ": "Thành phố Cà Mau, Cà Mau"
+  },
+  {
+    "ID quận huyện": 477,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cái Nước",
+    "Tên đầy đủ": "Huyện Cái Nước, Cà Mau"
+  },
+  {
+    "ID quận huyện": 478,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đầm Dơi",
+    "Tên đầy đủ": "Huyện Đầm Dơi, Cà Mau"
+  },
+  {
+    "ID quận huyện": 479,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Năm Căn",
+    "Tên đầy đủ": "Huyện Năm Căn, Cà Mau"
+  },
+  {
+    "ID quận huyện": 480,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ngọc Hiển",
+    "Tên đầy đủ": "Huyện Ngọc Hiển, Cà Mau"
+  },
+  {
+    "ID quận huyện": 481,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Tân",
+    "Tên đầy đủ": "Huyện Phú Tân, Cà Mau"
+  },
+  {
+    "ID quận huyện": 482,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thới Bình",
+    "Tên đầy đủ": "Huyện Thới Bình, Cà Mau"
+  },
+  {
+    "ID quận huyện": 483,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trần Văn Thời",
+    "Tên đầy đủ": "Huyện Trần Văn Thời, Cà Mau"
+  },
+  {
+    "ID quận huyện": 484,
+    "ID tỉnh thành": 12,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "U Minh",
+    "Tên đầy đủ": "Huyện U Minh, Cà Mau"
+  },
+  {
+    "ID quận huyện": 485,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Bình Minh",
+    "Tên đầy đủ": "Thị xã Bình Minh, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 486,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Huyện Bình Tân",
+    "Tên đầy đủ": "Huyện Bình Tân, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 487,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Long Hồ",
+    "Tên đầy đủ": "Huyện Long Hồ, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 488,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mang Thít",
+    "Tên đầy đủ": "Huyện Mang Thít, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 489,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tam Bình",
+    "Tên đầy đủ": "Huyện Tam Bình, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 490,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trà Ôn",
+    "Tên đầy đủ": "Huyện Trà Ôn, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 491,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Vĩnh Long",
+    "Tên đầy đủ": "Thành phố Vĩnh Long, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 492,
+    "ID tỉnh thành": 59,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vũng Liêm",
+    "Tên đầy đủ": "Huyện Vũng Liêm, Vĩnh Long"
+  },
+  {
+    "ID quận huyện": 493,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gia Viễn",
+    "Tên đầy đủ": "Huyện Gia Viễn, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 494,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoa Lư",
+    "Tên đầy đủ": "Huyện Hoa Lư, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 495,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kim Sơn",
+    "Tên đầy đủ": "Huyện Kim Sơn, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 496,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nho Quan",
+    "Tên đầy đủ": "Huyện Nho Quan, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 497,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Ninh Bình",
+    "Tên đầy đủ": "Thành phố Ninh Bình, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 498,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Tam Điệp",
+    "Tên đầy đủ": "Thành phố Tam Điệp, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 499,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Khánh",
+    "Tên đầy đủ": "Huyện Yên Khánh, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 500,
+    "ID tỉnh thành": 40,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Mô",
+    "Tên đầy đủ": "Huyện Yên Mô, Ninh Bình"
+  },
+  {
+    "ID quận huyện": 501,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cẩm Khê",
+    "Tên đầy đủ": "Huyện Cẩm Khê, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 502,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đoan Hùng",
+    "Tên đầy đủ": "Huyện Đoan Hùng, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 503,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hạ Hoà",
+    "Tên đầy đủ": "Huyện Hạ Hoà, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 504,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lâm Thao",
+    "Tên đầy đủ": "Huyện Lâm Thao, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 505,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phù Ninh",
+    "Tên đầy đủ": "Huyện Phù Ninh, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 506,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Phú Thọ",
+    "Tên đầy đủ": "Thị xã Phú Thọ, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 507,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tam Nông",
+    "Tên đầy đủ": "Huyện Tam Nông, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 508,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Sơn",
+    "Tên đầy đủ": "Huyện Tân Sơn, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 509,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Ba",
+    "Tên đầy đủ": "Huyện Thanh Ba, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 510,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Sơn",
+    "Tên đầy đủ": "Huyện Thanh Sơn, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 511,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Thuỷ",
+    "Tên đầy đủ": "Huyện Thanh Thuỷ, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 512,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Việt Trì",
+    "Tên đầy đủ": "Thành phố Việt Trì, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 513,
+    "ID tỉnh thành": 42,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Lập",
+    "Tên đầy đủ": "Huyện Yên Lập, Phú Thọ"
+  },
+  {
+    "ID quận huyện": 514,
+    "ID tỉnh thành": 41,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bác Ái",
+    "Tên đầy đủ": "Huyện Bác Ái, Ninh Thuận"
+  },
+  {
+    "ID quận huyện": 515,
+    "ID tỉnh thành": 41,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ninh Hải",
+    "Tên đầy đủ": "Huyện Ninh Hải, Ninh Thuận"
+  },
+  {
+    "ID quận huyện": 516,
+    "ID tỉnh thành": 41,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ninh Phước",
+    "Tên đầy đủ": "Huyện Ninh Phước, Ninh Thuận"
+  },
+  {
+    "ID quận huyện": 517,
+    "ID tỉnh thành": 41,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ninh Sơn",
+    "Tên đầy đủ": "Huyện Ninh Sơn, Ninh Thuận"
+  },
+  {
+    "ID quận huyện": 518,
+    "ID tỉnh thành": 41,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Phan Rang-Tháp Chàm",
+    "Tên đầy đủ": "Thành phố Phan Rang-Tháp Chàm, Ninh Thuận"
+  },
+  {
+    "ID quận huyện": 519,
+    "ID tỉnh thành": 41,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thuận Bắc",
+    "Tên đầy đủ": "Huyện Thuận Bắc, Ninh Thuận"
+  },
+  {
+    "ID quận huyện": 520,
+    "ID tỉnh thành": 41,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thuận Nam",
+    "Tên đầy đủ": "Huyện Thuận Nam, Ninh Thuận"
+  },
+  {
+    "ID quận huyện": 521,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Đông Hòa",
+    "Tên đầy đủ": "Thị xã Đông Hòa, Phú Yên"
+  },
+  {
+    "ID quận huyện": 522,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đồng Xuân",
+    "Tên đầy đủ": "Huyện Đồng Xuân, Phú Yên"
+  },
+  {
+    "ID quận huyện": 523,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phú Hoà",
+    "Tên đầy đủ": "Huyện Phú Hoà, Phú Yên"
+  },
+  {
+    "ID quận huyện": 524,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sơn Hòa",
+    "Tên đầy đủ": "Huyện Sơn Hòa, Phú Yên"
+  },
+  {
+    "ID quận huyện": 525,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Sông Cầu",
+    "Tên đầy đủ": "Thị xã Sông Cầu, Phú Yên"
+  },
+  {
+    "ID quận huyện": 526,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sông Hinh",
+    "Tên đầy đủ": "Huyện Sông Hinh, Phú Yên"
+  },
+  {
+    "ID quận huyện": 527,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tây Hoà",
+    "Tên đầy đủ": "Huyện Tây Hoà, Phú Yên"
+  },
+  {
+    "ID quận huyện": 528,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tuy An",
+    "Tên đầy đủ": "Huyện Tuy An, Phú Yên"
+  },
+  {
+    "ID quận huyện": 529,
+    "ID tỉnh thành": 74,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Tuy Hoà",
+    "Tên đầy đủ": "Thành phố Tuy Hoà, Phú Yên"
+  },
+  {
+    "ID quận huyện": 530,
+    "ID tỉnh thành": 21,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Lục",
+    "Tên đầy đủ": "Huyện Bình Lục, Hà Nam"
+  },
+  {
+    "ID quận huyện": 531,
+    "ID tỉnh thành": 21,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Duy Tiên",
+    "Tên đầy đủ": "Thị xã Duy Tiên, Hà Nam"
+  },
+  {
+    "ID quận huyện": 532,
+    "ID tỉnh thành": 21,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kim Bảng",
+    "Tên đầy đủ": "Huyện Kim Bảng, Hà Nam"
+  },
+  {
+    "ID quận huyện": 533,
+    "ID tỉnh thành": 21,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lý Nhân",
+    "Tên đầy đủ": "Huyện Lý Nhân, Hà Nam"
+  },
+  {
+    "ID quận huyện": 534,
+    "ID tỉnh thành": 21,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Phủ Lý",
+    "Tên đầy đủ": "Thành phố Phủ Lý, Hà Nam"
+  },
+  {
+    "ID quận huyện": 535,
+    "ID tỉnh thành": 21,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Liêm",
+    "Tên đầy đủ": "Huyện Thanh Liêm, Hà Nam"
+  },
+  {
+    "ID quận huyện": 536,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cẩm Xuyên",
+    "Tên đầy đủ": "Huyện Cẩm Xuyên, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 537,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Can Lộc",
+    "Tên đầy đủ": "Huyện Can Lộc, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 538,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đức Thọ",
+    "Tên đầy đủ": "Huyện Đức Thọ, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 539,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hà Tĩnh",
+    "Tên đầy đủ": "Thành phố Hà Tĩnh, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 540,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Hồng Lĩnh",
+    "Tên đầy đủ": "Thị xã Hồng Lĩnh, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 541,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hương Khê",
+    "Tên đầy đủ": "Huyện Hương Khê, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 542,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hương Sơn",
+    "Tên đầy đủ": "Huyện Hương Sơn, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 543,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kỳ Anh",
+    "Tên đầy đủ": "Huyện Kỳ Anh, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 544,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lộc Hà",
+    "Tên đầy đủ": "Huyện Lộc Hà, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 545,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nghi Xuân",
+    "Tên đầy đủ": "Huyện Nghi Xuân, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 546,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thạch Hà",
+    "Tên đầy đủ": "Huyện Thạch Hà, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 547,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vũ Quang",
+    "Tên đầy đủ": "Huyện Vũ Quang, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 548,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Cao Lãnh",
+    "Tên đầy đủ": "Thành phố Cao Lãnh, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 549,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 550,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hồng Ngự",
+    "Tên đầy đủ": "Huyện Hồng Ngự, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 551,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cao Lãnh",
+    "Tên đầy đủ": "Huyện Cao Lãnh, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 552,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hồng Ngự",
+    "Tên đầy đủ": "Thành phố Hồng Ngự, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 553,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lai Vung",
+    "Tên đầy đủ": "Huyện Lai Vung, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 554,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lấp Vò",
+    "Tên đầy đủ": "Huyện Lấp Vò, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 555,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Sa Đéc",
+    "Tên đầy đủ": "Thành phố Sa Đéc, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 556,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tam Nông",
+    "Tên đầy đủ": "Huyện Tam Nông, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 557,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Hồng",
+    "Tên đầy đủ": "Huyện Tân Hồng, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 558,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thanh Bình",
+    "Tên đầy đủ": "Huyện Thanh Bình, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 559,
+    "ID tỉnh thành": 18,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tháp Mười",
+    "Tên đầy đủ": "Huyện Tháp Mười, Đồng Tháp"
+  },
+  {
+    "ID quận huyện": 560,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 561,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cù Lao Dung",
+    "Tên đầy đủ": "Huyện Cù Lao Dung, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 562,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kế Sách",
+    "Tên đầy đủ": "Huyện Kế Sách, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 563,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Long Phú",
+    "Tên đầy đủ": "Huyện Long Phú, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 564,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mỹ Tú",
+    "Tên đầy đủ": "Huyện Mỹ Tú, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 565,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mỹ Xuyên",
+    "Tên đầy đủ": "Huyện Mỹ Xuyên, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 566,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Ngã Năm",
+    "Tên đầy đủ": "Thị xã Ngã Năm, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 567,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Sóc Trăng",
+    "Tên đầy đủ": "Thành phố Sóc Trăng, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 568,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thạnh Trị",
+    "Tên đầy đủ": "Huyện Thạnh Trị, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 569,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trần Đề",
+    "Tên đầy đủ": "Huyện Trần Đề, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 570,
+    "ID tỉnh thành": 49,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Vĩnh Châu",
+    "Tên đầy đủ": "Thị xã Vĩnh Châu, Sóc Trăng"
+  },
+  {
+    "ID quận huyện": 571,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đắk Glei",
+    "Tên đầy đủ": "Huyện Đắk Glei, Kon Tum"
+  },
+  {
+    "ID quận huyện": 572,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đắk Hà",
+    "Tên đầy đủ": "Huyện Đắk Hà, Kon Tum"
+  },
+  {
+    "ID quận huyện": 573,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đắk Tô",
+    "Tên đầy đủ": "Huyện Đắk Tô, Kon Tum"
+  },
+  {
+    "ID quận huyện": 574,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ia H'Drai",
+    "Tên đầy đủ": "Huyện Ia H' Drai, Kon Tum"
+  },
+  {
+    "ID quận huyện": 575,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kon Plông",
+    "Tên đầy đủ": "Huyện Kon Plông, Kon Tum"
+  },
+  {
+    "ID quận huyện": 576,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Kon Rẫy",
+    "Tên đầy đủ": "Huyện Kon Rẫy, Kon Tum"
+  },
+  {
+    "ID quận huyện": 577,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Kon Tum",
+    "Tên đầy đủ": "Thành phố Kon Tum, Kon Tum"
+  },
+  {
+    "ID quận huyện": 578,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ngọc Hồi",
+    "Tên đầy đủ": "Huyện Ngọc Hồi, Kon Tum"
+  },
+  {
+    "ID quận huyện": 579,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sa Thầy",
+    "Tên đầy đủ": "Huyện Sa Thầy, Kon Tum"
+  },
+  {
+    "ID quận huyện": 580,
+    "ID tỉnh thành": 32,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tu Mơ Rông",
+    "Tên đầy đủ": "Huyện Tu Mơ Rông, Kon Tum"
+  },
+  {
+    "ID quận huyện": 581,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Ba Đồn",
+    "Tên đầy đủ": "Thị xã Ba Đồn, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 582,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bố Trạch",
+    "Tên đầy đủ": "Huyện Bố Trạch, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 583,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Đồng Hới",
+    "Tên đầy đủ": "Thành Phố Đồng Hới, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 584,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lệ Thủy",
+    "Tên đầy đủ": "Huyện Lệ Thủy, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 585,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Minh Hóa",
+    "Tên đầy đủ": "Huyện Minh Hóa, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 586,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quảng Ninh",
+    "Tên đầy đủ": "Huyện Quảng Ninh, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 587,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quảng Trạch",
+    "Tên đầy đủ": "Huyện Quảng Trạch, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 588,
+    "ID tỉnh thành": 44,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tuyên Hóa",
+    "Tên đầy đủ": "Huyện Tuyên Hóa, Quảng Bình"
+  },
+  {
+    "ID quận huyện": 589,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cam Lộ",
+    "Tên đầy đủ": "Huyện Cam Lộ, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 590,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đa Krông",
+    "Tên đầy đủ": "Huyện Đa Krông, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 591,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cồn Cỏ",
+    "Tên đầy đủ": "Huyện Cồn Cỏ, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 592,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Đông Hà",
+    "Tên đầy đủ": "Thành phố Đông Hà, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 593,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Gio Linh",
+    "Tên đầy đủ": "Huyện Gio Linh, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 594,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hải Lăng",
+    "Tên đầy đủ": "Huyện Hải Lăng, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 595,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hướng Hóa",
+    "Tên đầy đủ": "Huyện Hướng Hóa, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 596,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Quảng Trị",
+    "Tên đầy đủ": "Thị xã Quảng Trị, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 597,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Triệu Phong",
+    "Tên đầy đủ": "Huyện Triệu Phong, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 598,
+    "ID tỉnh thành": 48,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Linh",
+    "Tên đầy đủ": "Huyện Vĩnh Linh, Quảng Trị"
+  },
+  {
+    "ID quận huyện": 599,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Càng Long",
+    "Tên đầy đủ": "Huyện Càng Long, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 600,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cầu Kè",
+    "Tên đầy đủ": "Huyện Cầu Kè, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 601,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cầu Ngang",
+    "Tên đầy đủ": "Huyện Cầu Ngang, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 602,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 603,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Duyên Hải",
+    "Tên đầy đủ": "Huyện Duyên Hải, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 604,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tiểu Cần",
+    "Tên đầy đủ": "Huyện Tiểu Cần, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 605,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trà Cú",
+    "Tên đầy đủ": "Huyện Trà Cú, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 606,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Trà Vinh",
+    "Tên đầy đủ": "Thành phố Trà Vinh, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 607,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành",
+    "Tên đầy đủ": "Huyện Châu Thành, Hậu Giang"
+  },
+  {
+    "ID quận huyện": 608,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Châu Thành A",
+    "Tên đầy đủ": "Huyện Châu Thành A, Hậu Giang"
+  },
+  {
+    "ID quận huyện": 609,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Long Mỹ",
+    "Tên đầy đủ": "Huyện Long Mỹ, Hậu Giang"
+  },
+  {
+    "ID quận huyện": 610,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Ngã Bảy",
+    "Tên đầy đủ": "Thành phố Ngã Bảy, Hậu Giang"
+  },
+  {
+    "ID quận huyện": 611,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phụng Hiệp",
+    "Tên đầy đủ": "Huyện Phụng Hiệp, Hậu Giang"
+  },
+  {
+    "ID quận huyện": 612,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Vị Thanh",
+    "Tên đầy đủ": "Thành phố Vị Thanh, Hậu Giang"
+  },
+  {
+    "ID quận huyện": 613,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vị Thuỷ",
+    "Tên đầy đủ": "Huyện Vị Thuỷ, Hậu Giang"
+  },
+  {
+    "ID quận huyện": 614,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Yên",
+    "Tên đầy đủ": "Huyện Bắc Yên, Sơn La"
+  },
+  {
+    "ID quận huyện": 615,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mai Sơn",
+    "Tên đầy đủ": "Huyện Mai Sơn, Sơn La"
+  },
+  {
+    "ID quận huyện": 616,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mộc Châu",
+    "Tên đầy đủ": "Huyện Mộc Châu, Sơn La"
+  },
+  {
+    "ID quận huyện": 617,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mường La",
+    "Tên đầy đủ": "Huyện Mường La, Sơn La"
+  },
+  {
+    "ID quận huyện": 618,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phù Yên",
+    "Tên đầy đủ": "Huyện Phù Yên, Sơn La"
+  },
+  {
+    "ID quận huyện": 619,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quỳnh Nhai",
+    "Tên đầy đủ": "Huyện Quỳnh Nhai, Sơn La"
+  },
+  {
+    "ID quận huyện": 620,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Sơn La",
+    "Tên đầy đủ": "Thành phố Sơn La, Sơn La"
+  },
+  {
+    "ID quận huyện": 621,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sông Mã",
+    "Tên đầy đủ": "Huyện Sông Mã, Sơn La"
+  },
+  {
+    "ID quận huyện": 622,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sốp Cộp",
+    "Tên đầy đủ": "Huyện Sốp Cộp, Sơn La"
+  },
+  {
+    "ID quận huyện": 623,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thuận Châu",
+    "Tên đầy đủ": "Huyện Thuận Châu, Sơn La"
+  },
+  {
+    "ID quận huyện": 624,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vân Hồ",
+    "Tên đầy đủ": "Huyện Vân Hồ, Sơn La"
+  },
+  {
+    "ID quận huyện": 625,
+    "ID tỉnh thành": 50,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Châu",
+    "Tên đầy đủ": "Huyện Yên Châu, Sơn La"
+  },
+  {
+    "ID quận huyện": 626,
+    "ID tỉnh thành": 3,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Bạc Liêu",
+    "Tên đầy đủ": "Thành phố Bạc Liêu, Bạc Liêu"
+  },
+  {
+    "ID quận huyện": 627,
+    "ID tỉnh thành": 3,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đông Hải",
+    "Tên đầy đủ": "Huyện Đông Hải, Bạc Liêu"
+  },
+  {
+    "ID quận huyện": 628,
+    "ID tỉnh thành": 3,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Thị xã Giá Rai",
+    "Tên đầy đủ": "Thị xã Giá Rai, Bạc Liêu"
+  },
+  {
+    "ID quận huyện": 629,
+    "ID tỉnh thành": 3,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoà Bình",
+    "Tên đầy đủ": "Huyện Hoà Bình, Bạc Liêu"
+  },
+  {
+    "ID quận huyện": 630,
+    "ID tỉnh thành": 3,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hồng Dân",
+    "Tên đầy đủ": "Huyện Hồng Dân, Bạc Liêu"
+  },
+  {
+    "ID quận huyện": 631,
+    "ID tỉnh thành": 3,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phước Long",
+    "Tên đầy đủ": "Huyện Phước Long, Bạc Liêu"
+  },
+  {
+    "ID quận huyện": 632,
+    "ID tỉnh thành": 3,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vĩnh Lợi",
+    "Tên đầy đủ": "Huyện Vĩnh Lợi, Bạc Liêu"
+  },
+  {
+    "ID quận huyện": 633,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lục Yên",
+    "Tên đầy đủ": "Huyện Lục Yên, Yên Bái"
+  },
+  {
+    "ID quận huyện": 634,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mù Căng Chải",
+    "Tên đầy đủ": "Huyện Mù Căng Chải, Yên Bái"
+  },
+  {
+    "ID quận huyện": 635,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Nghĩa Lộ",
+    "Tên đầy đủ": "Thị xã Nghĩa Lộ, Yên Bái"
+  },
+  {
+    "ID quận huyện": 636,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trạm Tấu",
+    "Tên đầy đủ": "Huyện Trạm Tấu, Yên Bái"
+  },
+  {
+    "ID quận huyện": 637,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trấn Yên",
+    "Tên đầy đủ": "Huyện Trấn Yên, Yên Bái"
+  },
+  {
+    "ID quận huyện": 638,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Văn Chấn",
+    "Tên đầy đủ": "Huyện Văn Chấn, Yên Bái"
+  },
+  {
+    "ID quận huyện": 639,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Văn Yên",
+    "Tên đầy đủ": "Huyện Văn Yên, Yên Bái"
+  },
+  {
+    "ID quận huyện": 640,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Yên Bái",
+    "Tên đầy đủ": "Thành phố Yên Bái, Yên Bái"
+  },
+  {
+    "ID quận huyện": 641,
+    "ID tỉnh thành": 61,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Bình",
+    "Tên đầy đủ": "Huyện Yên Bình, Yên Bái"
+  },
+  {
+    "ID quận huyện": 642,
+    "ID tỉnh thành": 58,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chiêm Hóa",
+    "Tên đầy đủ": "Huyện Chiêm Hóa, Tuyên Quang"
+  },
+  {
+    "ID quận huyện": 643,
+    "ID tỉnh thành": 58,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hàm Yên",
+    "Tên đầy đủ": "Huyện Hàm Yên, Tuyên Quang"
+  },
+  {
+    "ID quận huyện": 644,
+    "ID tỉnh thành": 58,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lâm Bình",
+    "Tên đầy đủ": "Huyện Lâm Bình, Tuyên Quang"
+  },
+  {
+    "ID quận huyện": 645,
+    "ID tỉnh thành": 58,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Na Hang",
+    "Tên đầy đủ": "Huyện Na Hang, Tuyên Quang"
+  },
+  {
+    "ID quận huyện": 646,
+    "ID tỉnh thành": 58,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sơn Dương",
+    "Tên đầy đủ": "Huyện Sơn Dương, Tuyên Quang"
+  },
+  {
+    "ID quận huyện": 647,
+    "ID tỉnh thành": 58,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Tuyên Quang",
+    "Tên đầy đủ": "Thành phố Tuyên Quang, Tuyên Quang"
+  },
+  {
+    "ID quận huyện": 648,
+    "ID tỉnh thành": 58,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Sơn",
+    "Tên đầy đủ": "Huyện Yên Sơn, Tuyên Quang"
+  },
+  {
+    "ID quận huyện": 649,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Điện Biên",
+    "Tên đầy đủ": "Huyện Điện Biên, Điện Biên"
+  },
+  {
+    "ID quận huyện": 650,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Điện Biên Đông",
+    "Tên đầy đủ": "Huyện Điện Biên Đông, Điện Biên"
+  },
+  {
+    "ID quận huyện": 651,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Điện Biên Phủ",
+    "Tên đầy đủ": "Thành phố Điện Biên Phủ, Điện Biên"
+  },
+  {
+    "ID quận huyện": 652,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mường Ảng",
+    "Tên đầy đủ": "Huyện Mường Ảng, Điện Biên"
+  },
+  {
+    "ID quận huyện": 653,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mường Chà",
+    "Tên đầy đủ": "Huyện Mường Chà, Điện Biên"
+  },
+  {
+    "ID quận huyện": 654,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Mường Lay",
+    "Tên đầy đủ": "Thị Xã Mường Lay, Điện Biên"
+  },
+  {
+    "ID quận huyện": 655,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mường Nhé",
+    "Tên đầy đủ": "Huyện Mường Nhé, Điện Biên"
+  },
+  {
+    "ID quận huyện": 656,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nậm Pồ",
+    "Tên đầy đủ": "Huyện Nậm Pồ, Điện Biên"
+  },
+  {
+    "ID quận huyện": 657,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tủa Chùa",
+    "Tên đầy đủ": "Huyện Tủa Chùa, Điện Biên"
+  },
+  {
+    "ID quận huyện": 658,
+    "ID tỉnh thành": 69,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tuần Giáo",
+    "Tên đầy đủ": "Huyện Tuần Giáo, Điện Biên"
+  },
+  {
+    "ID quận huyện": 659,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Lai Châu",
+    "Tên đầy đủ": "Thành phố Lai Châu, Lai Châu"
+  },
+  {
+    "ID quận huyện": 660,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mường Tè",
+    "Tên đầy đủ": "Huyện Mường Tè, Lai Châu"
+  },
+  {
+    "ID quận huyện": 661,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nậm Nhùn",
+    "Tên đầy đủ": "Huyện Nậm Nhùn, Lai Châu"
+  },
+  {
+    "ID quận huyện": 662,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Phong Thổ",
+    "Tên đầy đủ": "Huyện Phong Thổ, Lai Châu"
+  },
+  {
+    "ID quận huyện": 663,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Sìn Hồ",
+    "Tên đầy đủ": "Huyện Sìn Hồ, Lai Châu"
+  },
+  {
+    "ID quận huyện": 664,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tam Đường",
+    "Tên đầy đủ": "Huyện Tam Đường, Lai Châu"
+  },
+  {
+    "ID quận huyện": 665,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tân Uyên",
+    "Tên đầy đủ": "Huyện Tân Uyên, Lai Châu"
+  },
+  {
+    "ID quận huyện": 666,
+    "ID tỉnh thành": 33,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Than Uyên",
+    "Tên đầy đủ": "Huyện Than Uyên, Lai Châu"
+  },
+  {
+    "ID quận huyện": 667,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Sơn",
+    "Tên đầy đủ": "Huyện Bắc Sơn, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 668,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bình Gia",
+    "Tên đầy đủ": "Huyện Bình Gia, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 669,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Cao Lộc",
+    "Tên đầy đủ": "Huyện Cao Lộc, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 670,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chi Lăng",
+    "Tên đầy đủ": "Huyện Chi Lăng, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 671,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đình Lập",
+    "Tên đầy đủ": "Huyện Đình Lập, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 672,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hữu Lũng",
+    "Tên đầy đủ": "Huyện Hữu Lũng, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 673,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Lạng Sơn",
+    "Tên đầy đủ": "Thành phố Lạng Sơn, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 674,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Lộc Bình",
+    "Tên đầy đủ": "Huyện Lộc Bình, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 675,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Tràng Định",
+    "Tên đầy đủ": "Huyện Tràng Định, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 676,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Văn Lãng",
+    "Tên đầy đủ": "Huyện Văn Lãng, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 677,
+    "ID tỉnh thành": 34,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Văn Quan",
+    "Tên đầy đủ": "Huyện Văn Quan, Lạng Sơn"
+  },
+  {
+    "ID quận huyện": 678,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Mê",
+    "Tên đầy đủ": "Huyện Bắc Mê, Hà Giang"
+  },
+  {
+    "ID quận huyện": 679,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Quang",
+    "Tên đầy đủ": "Huyện Bắc Quang, Hà Giang"
+  },
+  {
+    "ID quận huyện": 680,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Đồng Văn",
+    "Tên đầy đủ": "Huyện Đồng Văn, Hà Giang"
+  },
+  {
+    "ID quận huyện": 681,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Hà Giang",
+    "Tên đầy đủ": "Thành phố Hà Giang, Hà Giang"
+  },
+  {
+    "ID quận huyện": 682,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoàng Su Phì",
+    "Tên đầy đủ": "Huyện Hoàng Su Phì, Hà Giang"
+  },
+  {
+    "ID quận huyện": 683,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Mèo Vạc",
+    "Tên đầy đủ": "Huyện Mèo Vạc, Hà Giang"
+  },
+  {
+    "ID quận huyện": 684,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quản Bạ",
+    "Tên đầy đủ": "Huyện Quản Bạ, Hà Giang"
+  },
+  {
+    "ID quận huyện": 685,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quang Bình",
+    "Tên đầy đủ": "Huyện Quang Bình, Hà Giang"
+  },
+  {
+    "ID quận huyện": 686,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Vị Xuyên",
+    "Tên đầy đủ": "Huyện Vị Xuyên, Hà Giang"
+  },
+  {
+    "ID quận huyện": 687,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Xín Mần",
+    "Tên đầy đủ": "Huyện Xín Mần, Hà Giang"
+  },
+  {
+    "ID quận huyện": 688,
+    "ID tỉnh thành": 20,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Yên Minh",
+    "Tên đầy đủ": "Huyện Yên Minh, Hà Giang"
+  },
+  {
+    "ID quận huyện": 689,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ba Bể",
+    "Tên đầy đủ": "Huyện Ba Bể, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 690,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành Phố Bắc Kạn",
+    "Tên đầy đủ": "Thành Phố Bắc Kạn, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 691,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bạch Thông",
+    "Tên đầy đủ": "Huyện Bạch Thông, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 692,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chợ Đồn",
+    "Tên đầy đủ": "Huyện Chợ Đồn, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 693,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Chợ Mới",
+    "Tên đầy đủ": "Huyện Chợ Mới, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 694,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Na Rì",
+    "Tên đầy đủ": "Huyện Na Rì, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 695,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Ngân Sơn",
+    "Tên đầy đủ": "Huyện Ngân Sơn, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 696,
+    "ID tỉnh thành": 81,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Pác Nặm",
+    "Tên đầy đủ": "Huyện Pác Nặm, Bắc Kạn"
+  },
+  {
+    "ID quận huyện": 697,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bảo Lạc",
+    "Tên đầy đủ": "Huyện Bảo Lạc, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 698,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bảo Lâm",
+    "Tên đầy đủ": "Huyện Bảo Lâm, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 699,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Thành phố",
+    "Tên Quận huyện": "Thành phố Cao Bằng",
+    "Tên đầy đủ": "Thành phố Cao Bằng, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 700,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hạ Lang",
+    "Tên đầy đủ": "Huyện Hạ Lang, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 701,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hà Quảng",
+    "Tên đầy đủ": "Huyện Hà Quảng, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 702,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Hoà An",
+    "Tên đầy đủ": "Huyện Hoà An, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 703,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Nguyên Bình",
+    "Tên đầy đủ": "Huyện Nguyên Bình, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 705,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Quảng Hòa",
+    "Tên đầy đủ": "Huyện Quảng Hòa, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 706,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Thạch An",
+    "Tên đầy đủ": "Huyện Thạch An, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 709,
+    "ID tỉnh thành": 13,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Trùng Khánh",
+    "Tên đầy đủ": "Huyện Trùng Khánh, Cao Bằng"
+  },
+  {
+    "ID quận huyện": 717,
+    "ID tỉnh thành": 73,
+    "Đơn vị": "Huyện",
+    "Tên Quận huyện": "Bắc Tân Uyên",
+    "Tên đầy đủ": "Huyện Bắc Tân Uyên, Bình Dương"
+  },
+  {
+    "ID quận huyện": 734,
+    "ID tỉnh thành": 24,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Kỳ Anh",
+    "Tên đầy đủ": "Thị xã Kỳ Anh, Hà Tĩnh"
+  },
+  {
+    "ID quận huyện": 735,
+    "ID tỉnh thành": 57,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Duyên Hải",
+    "Tên đầy đủ": "Thị xã Duyên Hải, Trà Vinh"
+  },
+  {
+    "ID quận huyện": 736,
+    "ID tỉnh thành": 70,
+    "Đơn vị": "Thị xã",
+    "Tên Quận huyện": "Long Mỹ",
+    "Tên đầy đủ": "Thị xã Long Mỹ, Hậu Giang"
+  }
+]

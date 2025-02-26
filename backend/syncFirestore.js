@@ -1,10 +1,10 @@
-require('dotenv').config();
-
 const XLSX = require('xlsx');
 const admin = require('firebase-admin');
 const fs = require('fs');
 const path = require('path');
+require('dotenv').config();
 
+console.log(process.env.FIREBASE_KEY_PATH);
 const serviceAccount = require(process.env.FIREBASE_KEY_PATH);
 
 admin.initializeApp({
@@ -12,7 +12,7 @@ admin.initializeApp({
   databaseURL: 'https://hungan-mdctest.firebaseio.com'
 });
 
-const db = admin.firestore();
+const db = admin.firestore();   
 
 // Log
 const LOG_FILE = path.join(__dirname, 'sync_log.txt');
@@ -30,20 +30,20 @@ const logToFile = (message) => {
 const readExcelFile = (filePath) => {
   const workbook = XLSX.readFile(filePath);
   const sheetsData = {};
-
+  
   workbook.SheetNames.forEach((sheetName) => {
     const sheet = workbook.Sheets[sheetName];
     const jsonData = XLSX.utils.sheet_to_json(sheet);
     sheetsData[sheetName] = jsonData;
   });
-
+  
   return sheetsData;
 };
 
 // Sync Firestore
 const syncExcelToFirestore = async () => {
   const filePath = path.join(__dirname, "..", "data", "Addresses.xlsx");
-  const sheetsData = readExcelFile(filePath);
+  const sheetsData = readExcelFile(filePath); 
 
   logToFile(` Sync started for file: ${filePath}`);
 
@@ -58,16 +58,18 @@ const syncExcelToFirestore = async () => {
 
     const idColumn = Object.keys(jsonData[0])[0];
     logToFile(` Using "${idColumn}" as document ID for collection "${collectionName}"`);
-
     const excelDataMap = new Map();
-    jsonData.forEach((item) => {
-      const id = String(item[idColumn]); 
-    
-      if (id) {
-        item["ID tỉnh thành"] = String(item["ID tỉnh thành"]);    
-        excelDataMap.set(id, item);
+    jsonData.forEach((item, index) => {
+      const id = item[idColumn]?.toString().trim();
+      
+      if (!id) {
+        logToFile(`Skipping row ${index + 2} in sheet "${sheetName}" (Missing ID)`);
+        return;
       }
+    
+      excelDataMap.set(id, item);
     });
+    
 
     const collectionRef = db.collection(collectionName);
     const snapshot = await collectionRef.get();

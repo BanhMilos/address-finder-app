@@ -1,6 +1,6 @@
 const express = require("express");
-const admin = require("firebase-admin");
 const cors = require("cors");
+const admin = require("firebase-admin");
 require("dotenv").config();
 
 const serviceAccount = require(process.env.FIREBASE_KEY_PATH);
