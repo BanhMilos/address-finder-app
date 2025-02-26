@@ -11,14 +11,15 @@ address-finder-app
 │   ├── styles.css       # CSS styles for the application
 │   └── scripts
 │       └── main.js      # Front-end JavaScript functionality
-├── src
+├── backend
 │   ├── server.js        # Entry point for the server-side application
-│   └── routes
-│       └── addressRoutes.js # Routes for handling address-related requests
+│   ├── syncFirestore.js # Updates changes from Addresses.xlsx file to Firestore database
 ├── data
 │   └── Addresses.xlsx   # Excel file containing address data
 ├── package.json          # npm configuration file
 ├── .gitignore            # Files and directories to ignore by Git
+├── .env.example          # Example environment variables file
+├── LICENSE               # License information for the project
 └── README.md             # Documentation for the project
 ```
 
@@ -35,19 +36,26 @@ address-finder-app
    npm install
    ```
 
-3. **Run the server**:
+3. **Set up environment variables**:
    ```
-   node src/server.js
+   cp .env.example .env
    ```
+Open .env and configure FIREBASE_KEY_PATH with the correct Firebase service account JSON path
 
-4. **Open the application**:
-   Navigate to `http://localhost:3000` in your web browser.
-
+4. **Run the server**:
+   ```
+   node backend/server.js
+   ```
+   
 ## Usage
 
-- Select the province, district, and commune from the dropdown menus.
-- The application will display the corresponding addresses based on the selected options.
-- You can view the address details in the results section.
+Dropdown Selection:
+
+Select the province, district, and commune from the dropdown menus. The application will display the corresponding addresses based on the selected options.
+
+Search Feature:
+
+Use the search bar to find locations by name, initials (e.g., "dvh" → "Dich Vong Hau"), or partial text (e.g., "am" → "Ha Nam"). Results will display full location details (e.g., "Dich Vong Hau, Cau Giay, Ha Noi
 
 ## Contributing
 
@@ -55,4 +63,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 
-This project is licensed under the MIT License.
+I don't know anything about this part :d 
