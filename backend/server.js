@@ -12,7 +12,31 @@ admin.initializeApp({
 const db = admin.firestore();
 const app = express();
 app.use(cors());
-app.use(express.json()); 
+app.use(express.json());
+
+// Get all locations
+app.get("/locations", async (req, res) => {
+  try {
+    const snapshot = await db.collection("Province_Code").get();
+    const provinces = snapshot.docs.map((doc) => ({
+      id: doc.id,
+      ...doc.data(),
+    }));
+    snapshot = await db.collection("District_Code").get();
+    const districts = snapshot.docs.map((doc) => ({
+      id: doc.id,
+      ...doc.data(),
+    }));
+    snapshot = await db.collection("Ward_code").get();
+    const wards = snapshot.docs.map((doc) => ({
+      id: doc.id,
+      ...doc.data(),
+    }));
+    res.json([...provinceData,...districtData,...wardData]);
+  } catch (error) {
+    res.status(500).json({ error: "Error fetching locations" });
+  }
+});
 
 // Get all provinces
 app.get("/provinces", async (req, res) => {

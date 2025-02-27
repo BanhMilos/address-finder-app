@@ -5,11 +5,13 @@ document.addEventListener("DOMContentLoaded", function () {
     const addressInput = document.getElementById("specific-address");
     const searchInput = document.getElementById("search");
     const resultMessage = document.getElementById("result-message");
+    const searchResultMessage = document.getElementById("search-result-message");
+    const searchButton = document.getElementById("search-button");
 
     const API_BASE_URL = "http://localhost:3000";
 
     let allLocations = [];
-
+    let searchResult = [];
     // Fetch all location data on page load
     const loadAllLocations = async () => {
         try {
@@ -83,31 +85,51 @@ document.addEventListener("DOMContentLoaded", function () {
     // Search function 
     const searchLocations = (query) => {
         if (!query) return;
-
         query = query.toLowerCase();
         const words = query.split(/\s+/);
 
         const results = allLocations.filter(loc => {
-            const fullName = `${loc.ward}, ${loc.district}, ${loc.province}`.toLowerCase();
+            let fullName = "";
 
+            if (loc["Tên tỉnh thành"]) {
+                fullName = loc["Tên tỉnh thành"].toLowerCase();
+            }
+            else if (loc["Tên đầy đủ"] && loc["ID quận huyện"]) {
+                fullName = loc["Tên đầy đủ"].toLowerCase();
+            }
+            else if (loc["Tên Phường xã"] && loc["ID Quận huyện"]) {
+                const district = allLocations.find(d => d["ID quận huyện"] === loc["ID Quận huyện"] && d["Tên đầy đủ"]);
+                const districtName = district ? district["Tên đầy đủ"] : "";
+                fullName = `${loc["Tên Phường xã"]} ${districtName}`.toLowerCase();
+            }
             // Exact match
             if (fullName.includes(query)) return true;
+            console.log("wtf");
 
             // Abbreviation match 
-            const abbreviation = loc.ward
-                .split(" ")
-                .map(word => word[0])
-                .join("")
-                .toLowerCase();
+            const checkAbbreviation = (field) => {
+                if (loc[field] && typeof loc[field] === 'string') {
+                    const abbreviation = loc[field]
+                        .split(" ")
+                        .map(word => word[0])
+                        .join("")
+                        .toLowerCase();
+                    if (abbreviation === query) return true;
+                }
+                return false;
+            };
 
-            if (abbreviation === query) return true;
+            if (checkAbbreviation("Tên tỉnh thành")) return true;
 
-            // Partial match
-            return words.some(word => fullName.includes(word));
+            if (checkAbbreviation("Tên Quận huyện")) return true;
+
+            if (checkAbbreviation("Tên Phường xã")) return true;
+
+            return false;
         });
-
         displaySearchResults(results);
     };
+
 
     // Display selected address
     const displayAddress = () => {
@@ -137,14 +159,27 @@ document.addEventListener("DOMContentLoaded", function () {
     // Search results
     const displaySearchResults = (results) => {
         if (results.length === 0) {
-            resultMessage.textContent = "No results found.";
+            searchResultMessage.textContent = "No results found.";
             return;
         }
 
         resultMessage.innerHTML = results
-            .map(loc => `${loc.ward}, ${loc.district}, ${loc.province}`)
+            .map(loc => {
+                let fullName = "";
+                if (loc["Tên tỉnh thành"]) {
+                    fullName = loc["Tên tỉnh thành"];
+                } else if (loc["Tên đầy đủ"] && loc["ID Quận huyện"]) {
+                    fullName = loc["Tên đầy đủ"];
+                } else if (loc["Tên Phường xã"] && loc["ID Quận huyện"]) {
+                    const district = allLocations.find(d => d["ID Quận huyện"] === loc["ID Quận huyện"] && d["Tên đầy đủ"]);
+                    const districtName = district ? district["Tên đầy đủ"] : "";
+                    fullName = `${loc["Tên Phường xã"]} ${districtName}`;
+                }
+                return fullName;  
+            })
             .join("<br>");
     };
+
 
 
     provinceSelect.addEventListener("change", function () {
@@ -170,10 +205,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
     addressInput.addEventListener("input", displayAddress);
 
-    searchInput.addEventListener("input", function () {
-        searchLocations(searchInput.value);
+    searchButton.addEventListener("click", function (event) {
+        const searchQuery = searchInput.value.trim();
+        if (searchQuery == "") return;
+        event.preventDefault(); 
+        searchLocations(searchQuery); 
     });
-
     loadAllLocations();
     loadProvinces();
 });
