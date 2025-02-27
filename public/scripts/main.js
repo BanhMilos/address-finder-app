@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const searchResultMessage = document.getElementById("search-result-message");
     const searchButton = document.getElementById("search-button");
 
-    const API_BASE_URL = "http://localhost:3000";
+    const API_BASE_URL = "https://address-finder-app.onrender.com";
 
     let allLocations = [];
     let searchResult = [];

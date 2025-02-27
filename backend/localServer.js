@@ -28,7 +28,7 @@ const readJsonFile = (fileName) => {
 // Load data
 const provinceData = readJsonFile("Province_Code.json");
 const districtData = readJsonFile("District_Code.json");
-const wardData = readJsonFile("Ward_Code.json");
+const wardData = readJsonFile("Ward_code.json");
 
 // Get all locations
 app.get("/locations", (req, res) => {
