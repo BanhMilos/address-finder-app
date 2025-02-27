@@ -85,6 +85,9 @@ document.addEventListener("DOMContentLoaded", function () {
     // Search function 
     const searchLocations = (query) => {
         if (!query) return;
+        searchButton.disabled = true;
+        searchInput.disabled = true;
+        searchResultMessage.textContent = "Searching...";
         query = query.toLowerCase();
         const words = query.split(/\s+/);
 
@@ -127,6 +130,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
             return false;
         });
+        searchButton.disabled = false;
+        searchInput.disabled = false;
+        searchResultMessage.textContent = `Found ${results.length} result(s).`;
         displaySearchResults(results);
     };
 
