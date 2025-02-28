@@ -5,10 +5,13 @@ body {
     padding: 0;
 }
 
-h1, h2 {
+h1{
     color: #333;
 }
 
+h2{
+    color: #333;
+}
 .container {
     width: 80%;
     margin: auto;

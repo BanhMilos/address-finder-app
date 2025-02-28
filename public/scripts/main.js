@@ -84,12 +84,14 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Search function 
     const searchLocations = (query) => {
-        if (!query) return;
+        if (!query){
+            displaySearchResults("")
+            return;
+        } 
         searchButton.disabled = true;
         searchInput.disabled = true;
         searchResultMessage.textContent = "Searching...";
         query = query.toLowerCase();
-        const words = query.split(/\s+/);
 
         const results = allLocations.filter(loc => {
             let fullName = "";
@@ -132,7 +134,6 @@ document.addEventListener("DOMContentLoaded", function () {
         });
         searchButton.disabled = false;
         searchInput.disabled = false;
-        searchResultMessage.textContent = `Found ${results.length} result(s).`;
         displaySearchResults(results);
     };
 
@@ -165,11 +166,11 @@ document.addEventListener("DOMContentLoaded", function () {
     // Search results
     const displaySearchResults = (results) => {
         if (results.length === 0) {
-            searchResultMessage.textContent = "No results found.";
+            searchResultMessage.innerHTML = "No results found.";
             return;
         }
-
-        resultMessage.innerHTML = results
+        searchResultMessage.textContent = `Found ${results.length} result(s).`;
+        searchResultMessage.innerHTML = results
             .map(loc => {
                 let fullName = "";
                 if (loc["Tên tỉnh thành"]) {
@@ -181,9 +182,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     const districtName = district ? district["Tên đầy đủ"] : "";
                     fullName = `${loc["Tên Phường xã"]} ${districtName}`;
                 }
-                return fullName;  
+                return fullName;    
             })
-            .join("<br>");
+            .join("<br>");    
     };
 
 
@@ -213,7 +214,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
     searchButton.addEventListener("click", function (event) {
         const searchQuery = searchInput.value.trim();
-        if (searchQuery == "") return;
         event.preventDefault(); 
         searchLocations(searchQuery); 
     });
